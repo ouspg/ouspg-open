@@ -11,7 +11,7 @@ Below, we give practical examples of our work.
  * PROTOS SNMP test tool revealed vulnerabilities in implementations from
    hundreds of vendors, such as Apple, Cisco, Dell, Juniper and Microsoft
 
- * Relentless work of [Atte Kettunen](https://youtu.be/wO1LU_QKroQ) - over 300
+ * Relentless work of [Atte Kettunen](https://youtu.be/ynqYaIRDl1k) - over 300
    vulnerabilities, from which 90 are in popular browsers - billions of online users secured. [Tons of bug bounties](https://www.chromium.org/Home/chromium-security/hall-of-fame) and
    $10 000 [last man standing award](https://bugs.chromium.org/p/chromium/issues/detail?id=157048) award as cherry on top.
 
