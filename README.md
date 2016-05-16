@@ -11,7 +11,7 @@ OUSPG presents, in the spirit of the Google Summer of Code:
  * Want to learn new stuff, new tools or create a impact crater on the tech and security?
  * Or just get a few good pointers for your project/thesis from people that have been in the field for over 10 years?
 
-If any or none above matches you, come and talk to us (OUSPG) about it. See below for the time and place of our next OUSPG open (doors) session.
+If any (or none) above matches you, come and talk to us about it. See below for the time and place of our next OUSPG open (doors) session.
 
 If you want to come masked or anonymous you are most welcome, no need to reserve in advance.
 
