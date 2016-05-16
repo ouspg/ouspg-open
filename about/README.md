@@ -20,22 +20,24 @@ Below, we give practical examples of our work.
    virtual private networks (SSL VPNs), network appliances and wide variety of
    client side software
 
-# Careers
+# Life after OUSPG
 
 OUSPG has employed over 30 persons over the course of 20 years.
-It has been the stepping-stone for many careers which have influenced who the
-world looks at security and tech in general.
+It has been the stepping-stone for many careers which have influenced how the
+ world looks at security and tech in general.
 
- * Founders of an international thought-leader company, making security testing
+ * Co-founder of an international thought-leader company, making security testing
    a standard practice, not only in IT, but also medical, automotive, industry
    control systems and other
 
- * Founders of an international though-leader company, impacting on how many
-   nations approach national cyber security
+ * Co-founders of another though-leader company, impacting on how many nations
+  approach national cyber security
 
  * Employees targeted by the head-hunters of world-famous companies, such as
    Google and Microsoft
 
- * A cyber defender in a senior technical role at a national cyber security
+ * A cyber defender in a senior specialist role at a national cyber security
   centre - also advising other nations.
 ![National cyber defender in action - protecting his own country and helping others](defender.png)
+
+ * International man of mystery living in US. Charms with his curly hair and has helped the biggest telcos, as well as their network equipment vendors, to improve the resiliency and security readiness of their networks. He drives Audi, a laptop on his hand and green card in his back pocket, and breaks everything he connects to.
