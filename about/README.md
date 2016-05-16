@@ -33,4 +33,4 @@ world looks at security and tech in general.
 
  * A cyber defender in a senior technical role at a national cyber security
   centre - also advising other nations.
-![National cyber defender in action - protecting his own country and helping others](https://github.com/ouspg/ouspg-open/tree/master/about/defender.png)
+![National cyber defender in action - protecting his own country and helping others](defender.png)
