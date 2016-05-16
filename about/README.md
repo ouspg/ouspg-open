@@ -15,6 +15,11 @@ Below, we give practical examples of our work.
    vulnerabilities, from which 90 are in popular browsers - billions of users
    use more browsers
 
+ * Spin-off company found a serious [Heartbleed](http://heartbleed.com) bug,
+   affecting about 2/3 of the WWW-serves in the Internet -  not to mention
+   virtual private networks (SSL VPNs), network appliances and wide variety of
+   client side software
+
 # Careers
 
 OUSPG has employed over 30 persons over the course of 20 years.
@@ -22,8 +27,8 @@ It has been the stepping-stone for many careers which have influenced who the
 world looks at security and tech in general.
 
  * Founders of an international thought-leader company, making security testing
-   a standard practice, not only in IT, but also medical, automotive, industry control
-   systems and other
+   a standard practice, not only in IT, but also medical, automotive, industry
+   control systems and other
 
  * Founders of an international though-leader company, impacting on how many
    nations approach national cyber security
