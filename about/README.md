@@ -1,10 +1,10 @@
 # What is OUSPG
 
-TLDR; We break software. We learn from it, and empower  
+TLDR; We break software. We learn from it, and empower
 the world ship more secure software. We are pretty good at is and it is
 likely that some software you depend on, is more secure because of us.
 
-# Examples
+# Unlocked Achievements
 
 Below, we give practical examples of our work.
 
@@ -18,7 +18,7 @@ Below, we give practical examples of our work.
 # Careers
 
 OUSPG has employed over 30 persons over the course of 20 years.
-It has been the stepping-stone for many careers which have influenced who the 
+It has been the stepping-stone for many careers which have influenced who the
 world looks at security and tech in general.
 
  * Founders of an international thought-leader company, making security testing
@@ -30,3 +30,7 @@ world looks at security and tech in general.
 
  * Employees targeted by the head-hunters of world-famous companies, such as
    Google and Microsoft
+
+ * A cyber defender in a senior technical role at a national cyber security
+  centre - also advising other nations.
+![National cyber defender in action - protecting his own country and helping others](https://github.com/ouspg/ouspg-open/tree/master/about/defender.png)
