@@ -11,9 +11,9 @@ tekemistä oman tai annetun aiheen parissa joustavalla aikataululla pariksi
 viikoksi tai kokonaisia lopputyöprojektejakin? Halua verkostoitumiselle
 tietotekniikan tai tietoturvan alalta?
 
-Tietoturvallisen ohjelmoinin ryhmä (OUSPG) on kiinostunut tuoreesta verestä ja
+Tietoturvallisen ohjelmoinnin ryhmä (OUSPG) on kiinnostunut tuoreesta verestä ja
 uusista kasvoista lähipiiriinsä. Tule juttelemaan mahdollisuuksistasi
-tietotaloon. 3. kerros, TS387, Toukokuun jokaisena tiistaina klo 12:00
+Tietotaloon. 3. kerros, TS387 toukokuun jokaisena tiistaina klo 12:00
 eteenpäin tai /join #ouspg @IRCnet
 
 Lisäinfoa: https://github.com/ouspg/ouspg-open
