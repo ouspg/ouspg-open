@@ -16,14 +16,14 @@ Below, we give practical examples of our work.
    $10 000 [last man standing award](https://bugs.chromium.org/p/chromium/issues/detail?id=157048) award as cherry on top.
 
  * Spin-off company found a serious [Heartbleed](http://heartbleed.com) bug,
-   affecting about 2/3 of the WWW-serves in the Internet -  not to mention
+   affecting about 2/3 of the WWW-serves on the Internet -  not to mention
    virtual private networks (SSL VPNs), network appliances and wide variety of
    client side software
 
 # Life after OUSPG
 
-OUSPG has employed over 30 persons over the course of 20 years.
-It has been the stepping-stone for many careers which have influenced how the
+Over 74 people have worked for OUSPG over the course of 20 years.
+It has been the stepping-stone for many careers which have influenced on how the
  world looks at security and tech in general.
 
  * Co-founder of an international thought-leader company, making security testing
