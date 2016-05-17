@@ -29,14 +29,14 @@ If you want to impress your cousin you may make a pull request against this file
 
 ### 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
- * Antti Järvinen visited and is looking for collaborators to continue
+ * Antti Järvinen (old school hacker with many hats) visited and is looking for collaborators to continue
  work on the his [server-free p2p communication software called Classified ads](http://katiska.org/classified-ads/). Seems perfect for crisis comms
  in case of the Zombie holocaust and we agreed to link this to the Cyber
  Exercises.
- * Engaged Pekka Tetri (@Theasolon of OP-Pohjola Group) with his Ph.D. on [Information Security: Panacea becoming a malady?](https://github.co/ouspg/secmalady/) Still missing a technical experiment/tool to analyze the complexity added by the add-on-security, if any. Needs help there.
+ * Engaged Pekka Tetri (@Theasolon) (OP-Pohjola Group) with his Ph.D. on [Information Security: Panacea becoming a malady?](https://github.co/ouspg/secmalady/) Still missing a technical experiment/tool to analyze the complexity added by the add-on-security, if any. Needs help there.
 
 ### 2016-05-10 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
- * Engaged Ossi Herrala (@oherrala of Synopsys) on his upcoming BSc. Thesis on the [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/)
+ * Engaged Ossi Herrala (@oherrala) (Synopsys) on his upcoming BSc. Thesis on the [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/)
  * Opened ouspg-open github repository to share the plans
  * Opened Slack for the OUSPG and Affiliates, get your invite from OUSPG team
