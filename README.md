@@ -31,7 +31,7 @@ If you want to impress your cousin you may make a pull request against this file
 
  * Antti Järvinen (old school hacker with many hats) visited and is looking for collaborators to continue
  work on the his [server-free p2p communication software called Classified ads](http://katiska.org/classified-ads/). Seems perfect for crisis comms
- in case of the Zombie holocaust and we agreed to link this to the Cyber
+ in case of the Zombie apocalypse and we agreed to link this to the Cyber
  Exercises.
  * Engaged Pekka Tetri (@Theasolon) (OP-Pohjola Group) with his Ph.D. on [Information Security: Panacea becoming a malady?](https://github.com/ouspg/secmalady/) Still missing a technical experiment/tool to analyze the complexity added by the add-on-security, if any. Needs help there.
  * Engaged Ilkka Sovanto (@Wraithh) (NCSC-FI) on his M.Sc. thesis about [a testbench/rack of various published and proposed algorithms and tools to extract evil from network events](https://github.com/ouspg/pahuus/).
