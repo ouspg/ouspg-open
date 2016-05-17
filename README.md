@@ -23,11 +23,16 @@ If you want to impress your cousin you may make a pull request against this file
 
 ## May 2016: Open Doors at the OUSPG
 
-### 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
-
  * Coming up, welcome!
 
-### 2016-05-10 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor
+### 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+
+ * Antti Järvinen visited and is looking for collaborators to continue
+ work on the his [server-free p2p communication software called Classified ads](http://katiska.org/classified-ads/). Seems perfect for crisis comms
+ in case of the Zombie holocaust and we agreed to link this to the Cyber
+ Exercises.
+
+### 2016-05-10 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
  * Engaged @oherrala on his upcoming BSc. Thesis on the [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/)
  * Opened ouspg-open github repository to share the plans
