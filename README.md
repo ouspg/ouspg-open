@@ -34,6 +34,8 @@ If you want to impress your cousin you may make a pull request against this file
  in case of the Zombie holocaust and we agreed to link this to the Cyber
  Exercises.
  * Engaged Pekka Tetri (@Theasolon) (OP-Pohjola Group) with his Ph.D. on [Information Security: Panacea becoming a malady?](https://github.co/ouspg/secmalady/) Still missing a technical experiment/tool to analyze the complexity added by the add-on-security, if any. Needs help there.
+ * Engaged Ilkka Sovanto (@Wraithh) (NCSC-FI) on his M.Sc. thesis about [a testbench/rack of various published and proposed algorithms and tools to extract evil from network events](https://github.co/ouspg/pahuus/).
+ * Had a visit from Janne Määttä (Synopsys) about M.Sc. thesis topic. Initial discussions revolved around protocol reverse engineering and MITM-tools. We will get back to this next week.
 
 ### 2016-05-10 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
