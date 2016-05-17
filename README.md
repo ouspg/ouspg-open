@@ -23,7 +23,7 @@ If you want to impress your cousin you may make a pull request against this file
 
 ## May 2016: Open Doors at the OUSPG
 
-### 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor
+### 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
  * Coming up, welcome!
 
