@@ -9,6 +9,7 @@ OUSPG presents, in the spirit of the Google Summer of Code:
  * Have a pet project? Need a topic? Need a project? Need a team? B.Sc/M.Sc/PhD thesis to write?
  * Student, Worker, Affiliate, Alumni?
  * Want to learn new stuff, new tools or create a impact crater on the tech and security?
+ * [Contribute](https://youtu.be/3yS0pnfXpBQ) to interesting open source projects out there?
  * Or just get a few good pointers for your project/thesis from people that have been in the field for over 10 years?
 
 If any (or none) above matches you, come and talk to us about it. See below for the time and place of our next OUSPG open (doors) session.
