@@ -1,26 +1,23 @@
 # What is OUSPG
 
 TLDR; We break software. We learn from it, and empower
-the world ship more secure software. We are pretty good at is and it is
-likely that some software you depend on, is more secure because of us.
+the world to ship more secure software - and we've got some results to show. 
 
-# Unlocked Achievements
+# OUSPG Timeline
 
-Below, we give practical examples of our work.
-
- * PROTOS SNMP test tool revealed vulnerabilities in implementations from
-   hundreds of vendors, such as Apple, Cisco, Dell, Juniper and Microsoft
-
- * Relentless work on browsers
-  * [Atte Kettunen](https://youtu.be/ynqYaIRDl1k) - over 300
-   vulnerabilities, from which 90 are in popular browsers - billions of online users secured. [Tons of bug bounties](https://www.chromium.org/Home/chromium-security/hall-of-fame) and
-   $10 000 [last man standing award](https://bugs.chromium.org/p/chromium/issues/detail?id=157048) award as cherry on top.
-  * Aki Helin FixMe
-
- * Spin-off company found a serious [Heartbleed](http://heartbleed.com) bug,
-   affecting about 2/3 of the WWW-serves on the Internet -  not to mention
-   virtual private networks (SSL VPNs), network appliances and wide variety of
-   client side software
+ * 1996 - OUSPG was born
+ * 1998 - First [buzz on the bug](http://sunsite.uakom.sk/sunworldonline/swol-08-1998/swol-08-emailbug.html) - Issues on Outlook Express and Netscape Communicator on various platforms
+ * 1999 - PROTS Research starts - era of systematic black box testing begins
+ * 2002 - PROTOS-spinoff [Codenomicon Oy](http://www.codenomicon.com/) is founded
+ * 2002 - [PROTOS SNMPv1](   https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1) test material reveals issues in [hundreds of products](http://www.cert.org/historical/advisories/CA-2002-03.cfm#vendors)
+ * 2004 - [PROTOS Protocol Genome project](https://www.ee.oulu.fi/research/ouspg/genome) taking the testing from another planet to another universe
+ * 2006 - FRONTIER-spinoff [Clarified Networks Oy](https://www.clarifiednetworks.com) is founded
+ * 2006 - Clarified Networks crew wins [VMware ultimate virtual challenge](http://www.vmware.com/mena/company/news/releases/uvac_winners) ($100 000)
+ * 2007 - Genome project starts to yield [tons of results](https://github.com/aoh/radamsa#some-known-results)
+ * 2011 - [Aki Helin](https://github.com/aoh) and [Atte Kettunen](https://youtu.be/ynqYaIRDl1k) collect [tons of bug bounties](https://www.chromium.org/Home/chromium-security/hall-of-fame) over the following years. Billions of online users secured.
+ * 2015 - Codenomicon finds [Heartbleed Bug](http://heartbleed.com/) from OpenSSL
+   * affected about 2/3 of the WWW-servers on the Internet
+   * also SSL-VPNs, network appliances and wide variety of client-side software
 
 # Life after OUSPG
 
@@ -38,8 +35,7 @@ It has been the stepping-stone for many careers which have influenced on how the
  * Employees targeted by the head-hunters of world-famous companies, such as
    Google and Microsoft
 
- * A cyber defender in a senior specialist role at a national cyber security
-  centre - also advising other nations.
+ * A cyber defender in a senior specialist role at a national cyber security centre - also advising other nations.
 ![National cyber defender in action - protecting his own country and helping others](defender.png)
 
  * International man of mystery living in US. Charms with his curly hair and has helped the biggest telcos, as well as their network equipment vendors, to improve the resiliency and security readiness of their networks. He drives Audi, a laptop on his hand and green card in his back pocket, and breaks everything he connects to.
