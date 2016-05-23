@@ -18,6 +18,8 @@ If you want to come masked or anonymous you are most welcome, no need to reserve
 
 If you want to impress your cousin you may make a pull request against this file to this repo and reserve your slot. :)
 
+If still lost but curious, join #ouspg @ IRCnet. :)
+
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
  * 2016-06-09 - 2016-06-12 [Vectorama](http://vectorama.info) - Vocational Guidance Counseling and cunning hacking plans
