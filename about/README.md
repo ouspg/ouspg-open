@@ -10,8 +10,8 @@ the world to ship more secure software - and we've got some results to show.
  * 1999 - PROTS Research starts - era of systematic black box testing begins
  * 2002 - PROTOS-spinoff [Codenomicon Oy](http://www.codenomicon.com/) is founded
  * 2002 - [PROTOS SNMPv1](   https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1) test material reveals issues in [hundreds of products](http://www.cert.org/historical/advisories/CA-2002-03.cfm#vendors)
- * 2004 - [PROTOS Protocol Genome project](https://www.ee.oulu.fi/research/ouspg/genome) taking the testing from another planet to another universe
- * 2006 - FRONTIER-spinoff [Clarified Networks Oy](https://www.clarifiednetworks.com) is founded
+ * 2004 - [PROTOS Protocol Genome project](https://www.ee.oulu.fi/research/ouspg/genome/) taking the testing from another planet to another universe
+ * 2006 - FRONTIER-spinoff [Clarified Networks Oy](https://www.clarifiednetworks.com/) is founded
  * 2006 - Clarified Networks crew wins [VMware ultimate virtual challenge](http://www.vmware.com/mena/company/news/releases/uvac_winners) ($100 000)
  * 2007 - Genome project starts to yield [tons of results](https://github.com/aoh/radamsa#some-known-results)
  * 2011 - [Aki Helin](https://github.com/aoh) and [Atte Kettunen](https://youtu.be/ynqYaIRDl1k) collect [tons of bug bounties](https://www.chromium.org/Home/chromium-security/hall-of-fame) over the following years. Billions of online users secured.
