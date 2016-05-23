@@ -1,6 +1,6 @@
 # OUSPG Open - Summer of Buzz with Fresh Blood, Alumni and Affiliates
 
-TLDR; Wanna hack for fun, studies to complete or need a job in infosec? Come to OUSPG to make cunning plans!
+TLDR; Wanna hack for fun, studies to complete or [need a job in infosec](https://www.youtube.com/watch?v=xucgT9BBzIE)? Come to OUSPG to make cunning plans! 
 
 OUSPG presents, in the spirit of the Google Summer of Code:
 
