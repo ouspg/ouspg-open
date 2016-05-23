@@ -27,7 +27,9 @@ If you want to impress your cousin you may make a pull request against this file
 ### 2016-05-24 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
  * Coming up, welcome!
-
+ * OUSPG Open referenced at [Kaleva]( http://www.kaleva.fi/uutiset/kotimaa/tietokoneen-tilttaaminen-turhauttaa-mutta-bugien-metsastaja-voi-tienata-koodivirheilla-tuhansia/728427/)
+ 
+ 
 ### 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
  * Antti Järvinen (old school hacker with many hats) visited and is looking for collaborators to continue
