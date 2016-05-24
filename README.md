@@ -36,6 +36,7 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Mikko Yliniemi (@mikessu) visits to plan month Master's phase internship.
  * Mauri Miettinen (@vaulthunter) with game-modding & NPC Lua scripting background drops in to find side projects for the summer.
  * Aleksi Klasila with "a bit" of coding background, e.g. [couple of games](http://en.playstore.juegos/desarrollador/aleksi-klasila/) visited to "a bit" to do during the summer. :)
+ * Timo Lintonen - a mathematician with interest on crypto. 
  * OUSPG Open referenced at [Kaleva]( http://www.kaleva.fi/uutiset/kotimaa/tietokoneen-tilttaaminen-turhauttaa-mutta-bugien-metsastaja-voi-tienata-koodivirheilla-tuhansia/728427/)
 
 
