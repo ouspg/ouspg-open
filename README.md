@@ -1,6 +1,6 @@
 # OUSPG Open - Summer of Buzz with Fresh Blood, Alumni and Affiliates
 
-TLDR; Wanna hack for fun, studies to complete or [need a job in infosec](https://www.youtube.com/watch?v=xucgT9BBzIE)? Come to OUSPG to make cunning plans! 
+TLDR; Wanna hack for fun, studies to complete or [need a job in infosec](https://www.youtube.com/watch?v=xucgT9BBzIE)? Come to OUSPG to make cunning plans!
 
 OUSPG presents, in the spirit of the Google Summer of Code:
 
@@ -26,15 +26,22 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## May 2016: Open Doors at the OUSPG
 
-### 2016-05-24 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+### Xxx 2016-06-xx @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
  * Coming up, welcome!
- * OUSPG Open referenced at [Kaleva]( http://www.kaleva.fi/uutiset/kotimaa/tietokoneen-tilttaaminen-turhauttaa-mutta-bugien-metsastaja-voi-tienata-koodivirheilla-tuhansia/728427/)
- 
- 
-### 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
- * Antti Järvinen (old school hacker with many hats) visited and is looking for collaborators to continue
+### Tue 2016-05-24 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+
+ * Joonas Kuorilehto (@joneskoo), Maria Toro and Kimmo Toro from F-Secure visit to discuss devops, fuzzing and practical co-op opportunities in Oulu area.
+ * Mikko Yliniemi (@mikessu) visits to plan month Master's phase internship.
+ * Mauri Miettinen (@vaulthunter) with game-modding & NPC Lua scripting background drops in to find side projects for the summer.
+ * Aleksi Klasila with "a bit" of coding background, e.g. [couple of games](http://en.playstore.juegos/desarrollador/aleksi-klasila/) visited to "a bit" to do during the summer. :)
+ * OUSPG Open referenced at [Kaleva]( http://www.kaleva.fi/uutiset/kotimaa/tietokoneen-tilttaaminen-turhauttaa-mutta-bugien-metsastaja-voi-tienata-koodivirheilla-tuhansia/728427/)
+
+
+### Tue 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+
+ * Antti Järvinen (old school hacker with many hats) visited and is looking for collaborators to continue.
  work on the his [server-free p2p communication software called Classified ads](http://katiska.org/classified-ads/). Seems perfect for crisis comms
  in case of the Zombie apocalypse and we agreed to link this to the Cyber
  Exercises.
@@ -42,7 +49,7 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Engaged Ilkka Sovanto (@Wraithh) (NCSC-FI) on his M.Sc. thesis about [a testbench/rack of various published and proposed algorithms and tools to extract evil from network events](https://github.com/ouspg/pahuus/).
  * Had a visit from Janne Määttä (Synopsys) about M.Sc. thesis topic. Initial discussions revolved around protocol reverse engineering and MITM-tools. We will get back to this next week.
 
-### 2016-05-10 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+### Tue 2016-05-10 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
  * Engaged Ossi Herrala (@oherrala) (Synopsys) on his upcoming BSc. Thesis on the [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/)
  * Opened ouspg-open github repository to share the plans
