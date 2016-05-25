@@ -7,7 +7,7 @@ the world to ship more secure software - and we've got some results to show.
 
  * 1996 - OUSPG was born
  * 1998 - First [buzz on the bug](http://sunsite.uakom.sk/sunworldonline/swol-08-1998/swol-08-emailbug.html) - Issues on Outlook Express and Netscape Communicator on various platforms
- * 1999 - PROTS Research starts - era of systematic black box testing begins
+ * 1999 - PROTOS Research starts - the era of systematic black box testing begins
  * 2002 - PROTOS-spinoff [Codenomicon Oy](http://www.codenomicon.com/) is founded
  * 2002 - [PROTOS SNMPv1](   https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1) test material reveals issues in [hundreds of products](http://www.cert.org/historical/advisories/CA-2002-03.cfm#vendors)
  * 2004 - [PROTOS Protocol Genome project](https://www.ee.oulu.fi/research/ouspg/genome/) taking the testing from another planet to another universe
