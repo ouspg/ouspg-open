@@ -35,7 +35,7 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Joonas Kuorilehto (@joneskoo), Maria Toro and Kimmo Toro from F-Secure visit to discuss devops, fuzzing and practical co-op opportunities in Oulu area.
  * Mikko Yliniemi (@mikessu) visits to plan month Master's phase internship.
  * Mauri Miettinen (@vaulthunter) with game-modding & NPC Lua scripting background drops in to find side projects for the summer.
- * Aleksi Klasila with "a bit" of coding background, e.g. [couple of games](http://en.playstore.juegos/desarrollador/aleksi-klasila/) visited to "a bit" to do during the summer. :)
+ * Aleksi Klasila with "a bit" of coding background, e.g. [couple of games](https://play.google.com/store/search?q=aleksi+klasila/) visited to "a bit" to do during the summer. :)
  * Timo Lintonen - a mathematician with interest on crypto, discussing on practical implementation issues 
  * Janne Määttä (Synopsys) revisited - zeroing in to the scope to avoid accidental Ph.D.
  * OUSPG Open referenced at [Kaleva]( http://www.kaleva.fi/uutiset/kotimaa/tietokoneen-tilttaaminen-turhauttaa-mutta-bugien-metsastaja-voi-tienata-koodivirheilla-tuhansia/728427/)
