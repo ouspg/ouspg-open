@@ -38,4 +38,4 @@ It has been the stepping-stone for many careers which have influenced on how the
  * A cyber defender in a senior specialist role at a national cyber security centre - also advising other nations.
 ![National cyber defender in action - protecting his own country and helping others](defender.png)
 
- * International man of mystery living in US. Charms with his curly hair and has helped the biggest telcos, as well as their network equipment vendors, to improve the resiliency and security readiness of their networks. He drives Audi, a laptop on his hand and green card in his back pocket, and breaks everything he connects to.
+ * International man of mystery living in US. Charms with his curly hair and has helped the biggest telcos, as well as their network equipment vendors, to improve the resiliency and security readiness of their networks. He drives Audi, carries a laptop on his left hand, green card in his back pocket, and breaks everything he connects to.
