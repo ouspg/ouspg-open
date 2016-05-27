@@ -14,7 +14,7 @@ the world to ship more secure software - and we've got some results to show.
  * 2006 - FRONTIER-spinoff [Clarified Networks Oy](https://www.clarifiednetworks.com/) is founded
  * 2006 - Clarified Networks crew wins [VMware ultimate virtual challenge](http://www.vmware.com/mena/company/news/releases/uvac_winners) ($100 000)
  * 2007 - Genome project starts to yield [tons of results](https://github.com/aoh/radamsa#some-known-results)
- * 2011 - [Aki Helin](https://github.com/aoh) and [Atte Kettunen](https://youtu.be/e7nneX9jsLc) collect [tons of bug bounties](https://www.chromium.org/Home/chromium-security/hall-of-fame) over the following years. Billions of online users secured.
+ * 2011 - [Aki Helin](https://github.com/aoh) and [Atte Kettunen](https://youtu.be/RScnahkajKw) collect [tons of bug bounties](https://www.chromium.org/Home/chromium-security/hall-of-fame) over the following years. Billions of online users secured.
  * 2015 - Codenomicon finds the [Heartbleed Bug](http://heartbleed.com/) from OpenSSL
    * affected about 2/3 of the WWW-servers on the Internet
    * also SSL-VPNs, network appliances and wide variety of client-side software
