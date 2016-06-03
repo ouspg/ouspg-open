@@ -28,7 +28,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Fri 2016-06-03 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
- * Coming up, welcome!
+ * Finnish Cyber Scene [mapped](https://youtu.be/Xd6qjCLHDbQ) - go watch the video and comment what we missed.
 
 ### Tue 2016-05-24 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
