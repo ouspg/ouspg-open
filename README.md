@@ -39,7 +39,9 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Mauri Miettinen (@vaulthunter) and Aleksi Klasila (@OMISTAJA) come around to fill forms to prepare for their part time summer sprints on our libFuzzer and TLS themed topics.
  * Ari Kauppi (@kauppi) drops in to plan AFL on QEMU for fuzzing ARM/embedded targets too clumsy to be tested in native targets. Honggfuzz was discussed. We agreed to keep "Advanced" fuzzing workshop on 28th of June to share experiences with exotic platforms, fuzzing engines, speed and other drugs.
  * Timo Lintonen revisits. We did set up a meeting with Kimmo (hash) Halunen from VTT at the next OUSPG open. We have pointers to Dan Geer and [his publications](http://geer.tinho.net/pubs).
- * Jesse Hulkko ()
+ * Finnish Cyber Scene [mapped](https://youtu.be/Xd6qjCLHDbQ) - go watch the video and comment what we missed.
+ * Jesse Hulkko (@jhulkko) from Kapsi Ry et al. visited and helped us to see what we missed in the mapping and to hash our summer ideas.
+ * Teemu Laurila with reverse engineering and mobile game development background visited looking for things to do during the summer.
 
 ### Tue 2016-05-24 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
