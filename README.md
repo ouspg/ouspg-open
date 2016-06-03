@@ -22,7 +22,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
- * 2016-08-28 advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
+ * 2016-06-28 advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
 
  * 2016-06-09 - 2016-06-12 [Vectorama](http://vectorama.info) - Vocational Guidance Counseling and cunning hacking plans
 
