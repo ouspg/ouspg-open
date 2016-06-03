@@ -42,7 +42,8 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Finnish Cyber Scene [mapped](https://youtu.be/Xd6qjCLHDbQ) - go watch the video and comment what we missed.
  * Jesse Hulkko (@jhulkko) from Kapsi Ry et al. visited and helped us to see what we missed in the mapping and to hash our summer ideas.
  * Teemu Laurila with reverse engineering and mobile game development background visited looking for things to do during the summer.
-
+ * Scouted [Tellus](img/tellus-combined.png) - perfect location for workshops. 
+  
 ### Tue 2016-05-24 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
  * Joonas Kuorilehto (@joneskoo), Maria Toro and Kimmo Toro from F-Secure visit to discuss devops, fuzzing and practical co-op opportunities in Oulu area.
