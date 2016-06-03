@@ -22,24 +22,34 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
+ * 2016-08-28 advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
+
  * 2016-06-09 - 2016-06-12 [Vectorama](http://vectorama.info) - Vocational Guidance Counseling and cunning hacking plans
 
-## May 2016: Open Doors at the OUSPG
+### Tue 2016-06-07 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+
+ * Coming up, welcome!
+
+## "May" 2016: Open Doors at the OUSPG
 
 ### Fri 2016-06-03 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
- * Coming up, welcome!
+ * Mikko Yliniemi (@mikessu) visited to prepare for the OUSPG intership starting next Monday.
+ * Jani Tuovila (@replicant2020) from Bittium visited to network and share experiences from Capture the Flag competitions. Jani was convinced to join our Kippo medium interaction honeypot network.
+ * Mauri Miettinen (@vaulthunter) and Aleksi Klasila (@OMISTAJA) come around to fill forms to prepare for their part time summer sprints on our libFuzzer and TLS themed topics.
+ * Ari Kauppi (@kauppi) drops in to plan AFL on QEMU for fuzzing ARM/embedded targets too clumsy to be tested in native targets. Honggfuzz was discussed. We agreed to keep "Advanced" fuzzing workshop on 28th of June to share experiences with exotic platforms, fuzzing engines, speed and other drugs.
+ * Timo Lintonen revisits. We did set up a meeting with Kimmo (hash) Halunen from VTT at the next OUSPG open. We have pointers to Dan Geer and [his publications](http://geer.tinho.net/pubs).
+ * Jesse Hulkko ()
 
 ### Tue 2016-05-24 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
  * Joonas Kuorilehto (@joneskoo), Maria Toro and Kimmo Toro from F-Secure visit to discuss devops, fuzzing and practical co-op opportunities in Oulu area.
  * Mikko Yliniemi (@mikessu) visits to plan month Master's phase internship.
  * Mauri Miettinen (@vaulthunter) with game-modding & NPC Lua scripting background drops in to find side projects for the summer.
- * Aleksi Klasila with "a bit" of coding background, e.g. [couple of games](https://play.google.com/store/search?q=aleksi+klasila/) visited to find "a bit" to do during the summer. :)
+ * Aleksi Klasila (@OMISTAJA) with "a bit" of coding background, e.g. [couple of games](https://play.google.com/store/search?q=aleksi+klasila/) visited to find "a bit" to do during the summer. :)
  * Timo Lintonen - a mathematician with interest on crypto, discussing on practical implementation issues
  * Janne Määttä (Synopsys) revisited - zeroing in to the scope to avoid accidental Ph.D.
  * OUSPG Open referenced at [Kaleva]( http://www.kaleva.fi/uutiset/kotimaa/tietokoneen-tilttaaminen-turhauttaa-mutta-bugien-metsastaja-voi-tienata-koodivirheilla-tuhansia/728427/)
-
 
 ### Tue 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
