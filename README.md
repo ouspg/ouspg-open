@@ -29,7 +29,8 @@ If still lost but curious, join #ouspg @ IRCnet.
 ### Tue 2016-06-07 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
  * Coming up, welcome!
-
+ * Pauli Huttunen (@WhiteEyeDoll) comes to wonder how many clustered virtualization platforms could one person learn about, break and fix in a single summer.
+ 
 ## "May" 2016: Open Doors at the OUSPG
 
 ### Fri 2016-06-03 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
