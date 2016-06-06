@@ -13,11 +13,15 @@
   * [ ] Get the university keys
   * [ ] (Optional) Get the university/department accounts
  * [ ] Setup
+  * [ ] (Optional) get a workstation/laptop but BYOD is good
   * [ ] Establish IRC presence
-   * [ ] Get a persistent shell if none yet
+   * [ ] Get a persistent shell if none yet (e.g. JK Ry)
    * [ ] Run tmux (or screen if you must) with irssi (or your favority client)
    * [ ] Join #ouspg @ IRCnet
   * [ ] Join Slack
   * [ ] Join OUSPG at the Github
   * [ ] (Optional) Join trello
- * [ ] Enjoy?
+  * [ ] (Optional) Join ouspg emaillist(s)
+ * [ ] Work
+  * [ ] Start to collaborate
+  * [ ] Enjoy?
