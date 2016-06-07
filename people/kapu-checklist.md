@@ -7,7 +7,7 @@
   * [x] Agree on the effort
   * [x] Agree on the compensation
  * [ ] Bureaucracy
-  * [ ] Bring in the CV & study certificates
+  * [ ] Bring in the (CV) & study certificates
   * [x] Fill the university personnel form
   * [+] Deliver the tax form
   * [ ] Get the university keys
