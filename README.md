@@ -1,18 +1,18 @@
 # OUSPG Open - Summer of Buzz with Fresh Blood, Alumni and Affiliates
 
-TLDR; Wanna hack for fun, studies to complete or [need a job in infosec](https://www.youtube.com/watch?v=xucgT9BBzIE)? Come to OUSPG to make cunning plans!
+TLDR; Wanna hack for fun? Have studies to complete? [Need a job in infosec](https://www.youtube.com/watch?v=xucgT9BBzIE)? Come to OUSPG to make cunning plans!
 
 OUSPG presents, in the spirit of the Google Summer of Code:
 
- * ~~Young~~, ~~Old~~, **Enthuastic**, Tweaker, Pro, Wanna-be or interested in the Information Security or Hacking stuff?
+ * ~~Young~~, ~~Old~~, **Enthusiastic**, Tweaker, Pro, Wanna-be or interested in the Information Security or Hacking stuff?
  * Still looking for something small or big to do during summer?
  * Have a pet project? Need a topic? Need a project? Need a team? B.Sc/M.Sc/PhD thesis to write?
  * Student, Worker, Affiliate, Alumni?
- * Want to learn new stuff, new tools or create a impact crater on the tech and security?
+ * Want to learn new stuff, new tools or create an impact crater on the tech and security landscape?
  * [Contribute](https://youtu.be/3yS0pnfXpBQ) to interesting open source projects out there?
  * Or just get a few good pointers for your project/thesis from people that have been in the field for over 10 years?
 
-If any (or none) above matches you, come and talk to us about it. See below for the time and place of our next OUSPG open (doors) session.
+If any (or none) of the above matches you, come and talk to us about it. See below for the time and place of our next OUSPG Open (doors) session.
 
 If you want to come masked or anonymous you are most welcome, no need to reserve in advance.
 
