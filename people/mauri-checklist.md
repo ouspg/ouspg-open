@@ -7,7 +7,7 @@
   * [x] Agree on the effort
   * [x] Agree on the compensation
  * [ ] Bureaucracy
-  * [+] Bring in the CV & study certificates
+  * [+] Bring in the (CV) & study certificates
   * [+] Fill the university personnel form
   * [+] Deliver the tax form
   * [ ] Get the university keys
@@ -15,10 +15,9 @@
  * [ ] Setup
   * [ ] (Optional) get a workstation/laptop but BYOD is good
   * [ ] Establish IRC presence
-  * no dedicated box
-   * [-] Get a persistent shell if none yet (e.g. JK Ry)
-   * [ ] Run tmux (or screen if you must) with irssi (or your favorite client)
-   * [ ] Join #ouspg @ IRCnet
+   * [+] Get a persistent shell if none yet (e.g. JK Ry)
+   * [+] Run tmux (or screen if you must) with irssi (or your favorite client)
+   * [+] Join #ouspg @ IRCnet
   * [x] Join Slack
   * [x] Join OUSPG at the Github
   * [x] (Optional) Join trello
