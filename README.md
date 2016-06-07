@@ -1,18 +1,18 @@
 # OUSPG Open - Summer of Buzz with Fresh Blood, Alumni and Affiliates
 
-TLDR; Wanna hack for fun, studies to complete or [need a job in infosec](https://www.youtube.com/watch?v=xucgT9BBzIE)? Come to OUSPG to make cunning plans!
+TLDR; Wanna hack for fun? Have studies to complete? [Need a job in infosec](https://www.youtube.com/watch?v=xucgT9BBzIE)? Come to OUSPG to make cunning plans!
 
 OUSPG presents, in the spirit of the Google Summer of Code:
 
- * ~~Young~~, ~~Old~~, **Enthuastic**, Tweaker, Pro, Wanna-be or interested in the Information Security or Hacking stuff?
+ * ~~Young~~, ~~Old~~, **Enthusiastic**, Tweaker, Pro, Wanna-be or interested in the Information Security or Hacking stuff?
  * Still looking for something small or big to do during summer?
  * Have a pet project? Need a topic? Need a project? Need a team? B.Sc/M.Sc/PhD thesis to write?
  * Student, Worker, Affiliate, Alumni?
- * Want to learn new stuff, new tools or create a impact crater on the tech and security?
+ * Want to learn new stuff, new tools or create an impact crater on the tech and security landscape?
  * [Contribute](https://youtu.be/3yS0pnfXpBQ) to interesting open source projects out there?
  * Or just get a few good pointers for your project/thesis from people that have been in the field for over 10 years?
 
-If any (or none) above matches you, come and talk to us about it. See below for the time and place of our next OUSPG open (doors) session.
+If any (or none) of the above matches you, come and talk to us about it. See below for the time and place of our next OUSPG Open (doors) session.
 
 If you want to come masked or anonymous you are most welcome, no need to reserve in advance.
 
@@ -29,8 +29,12 @@ If still lost but curious, join #ouspg @ IRCnet.
 ### Tue 2016-06-07 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
  * Coming up, welcome!
- * Pauli Huttunen (@WhiteEyeDoll) comes to wonder how many clustered virtualization platforms could one person learn about, break and fix in a single summer.
- 
+ * Pauli Huttunen (@WhiteEyeDoll) came to wonder how many clustered virtualization platforms could one person learn about, break and fix in a single summer.
+ * Heikki Vesa visited to network. Heikki has long running and interesting hobbies ranging from lock picking, reverse engineering to building honeypots. Linked Heikki with Tarlab and @turmio.
+ * Timo Lintonen and Kimmo (hash) Halonen from VTT meet to discuss opportunities for mathematician interested in security and potential thesis topic. Thanks to Kimmo for visiting and consultation!
+ * Jani Yli-Kantola and Harri Hirvonsalo from M3S research group visit to discuss research around how people gain more control over their personal data (MyData) and to brainstorm on the TLS/SSL certificate check checking.
+ * ...
+
 ## "May" 2016: Open Doors at the OUSPG
 
 ### Fri 2016-06-03 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
