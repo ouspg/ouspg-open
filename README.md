@@ -28,13 +28,13 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-06-07 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
- * Coming up, welcome!
+
  * Pauli Huttunen (@WhiteEyeDoll) came to wonder how many clustered virtualization platforms could one person learn about, break and fix in a single summer.
  * Heikki Vesa visited to network. Heikki has long running and interesting hobbies ranging from lock picking, reverse engineering to building honeypots. Linked Heikki with [Tarlab](http://www.tarlab.fi) and @turmio.
  * Timo Lintonen and Kimmo (hash) Halonen from VTT meet to discuss opportunities for mathematician interested in security and potential thesis topic. Thanks to Kimmo for visiting and consultation!
  * Jani Yli-Kantola and Harri Hirvonsalo from M3S research group visit to discuss research around how people gain more control over their personal data (MyData) and to brainstorm on the TLS/SSL certificate check checking.
  * Kick-off meeting of libfuzzerification with Mikko, Pauli, Atte (browserbane) Kettunen, Mauri and Aleksi.
-
+ * Jani Tuovila (@replicant2020) from Bittium visited to get an update and ask few  [Kippo](https://docs.google.com/document/d/1alb60WiWMzghZlApgfqfh5LF2mjn-U0Nm8WeKcPD-hI/edit?usp=sharing)-questions.
 ## "May" 2016: Open Doors at the OUSPG
 
 ### Fri 2016-06-03 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)

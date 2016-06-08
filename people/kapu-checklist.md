@@ -9,7 +9,7 @@
  * [ ] Bureaucracy
   * [ ] Bring in the (CV) & study certificates
   * [x] Fill the university personnel form
-  * [+] Deliver the tax form
+  * [x] Deliver the tax form
   * [ ] Get the university keys
   * [ ] (Optional) Get the university/department accounts
  * [ ] Setup
