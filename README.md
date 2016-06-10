@@ -23,11 +23,20 @@ If still lost but curious, join #ouspg @ IRCnet.
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
  * 2016-06-28 advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
+ * 2016-06-14 @ Tellus, Linnanmaa Campus, ...?
 
- * 2016-06-09 - 2016-06-12 [Vectorama](http://vectorama.info) - Vocational Guidance Counseling and cunning hacking plans
+### Fri 2016-08-09 - Sun 2016-08-12 @ Vectorama
+
+ * Coming up, welcome!
+ * We will be around at [Vectorama](http://vectorama.info)
+  * Vocational Guidance Counseling and Cunning Hacking Plans at Oulu* Showroom and Lounge
+   * Topi Ruokamo with a strong career interest in wellness technology visits to get some pointers.
+   * Antti Tennivaara and Pyry Lindberg
+  * Onsite Capture the (h4x0red) Flag Combo on Friday 12:00 - 00:00
+ * Jani Kenttälä (@janikenttala) and Joachim Viide (@jviide) (re)join OUSPG staff as hired
+ guns for our summer of the hacking :)
 
 ### Tue 2016-06-07 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
-
 
  * Pauli Huttunen (@WhiteEyeDoll) came to wonder how many clustered virtualization platforms could one person learn about, break and fix in a single summer.
  * Heikki Vesa visited to network. Heikki has long running and interesting hobbies ranging from lock picking, reverse engineering to building honeypots. Linked Heikki with [Tarlab](http://www.tarlab.fi) and @turmio.
@@ -35,7 +44,6 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Jani Yli-Kantola and Harri Hirvonsalo from M3S research group visit to discuss research around how people gain more control over their personal data (MyData) and to brainstorm on the TLS/SSL certificate check checking.
  * Kick-off meeting of libfuzzerification with Mikko, Pauli, Atte (browserbane) Kettunen, Mauri and Aleksi.
  * Jani Tuovila (@replicant2020) from Bittium visited to get an update and ask few  [Kippo](https://docs.google.com/document/d/1alb60WiWMzghZlApgfqfh5LF2mjn-U0Nm8WeKcPD-hI/edit?usp=sharing)-questions.
-## "May" 2016: Open Doors at the OUSPG
 
 ### Fri 2016-06-03 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
@@ -48,6 +56,8 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Jesse Hulkko (@jhulkko) from Kapsi Ry, Remod Oy & etc. visited and helped us to see what we missed in the mapping and to hash our summer ideas.
  * Teemu Laurila with reverse engineering and mobile game development background visited looking for things to do during the summer.
  * Scouted [Tellus](img/tellus-combined.png) - perfect location for workshops.
+
+## May 2016: Open Doors at the OUSPG
 
 ### Tue 2016-05-24 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
