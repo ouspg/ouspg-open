@@ -23,18 +23,33 @@ If still lost but curious, join #ouspg @ IRCnet.
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
  * 2016-06-28 advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
- * 2016-06-14 @ Tellus, Linnanmaa Campus, ...?
+
+## Tue 2016-06-14 @ Tellus, Linnanmaa Campus (12-17)?
+
+ * Jani Kenttälä (@janikenttala) and Joachim Viide (@jviide) (re)join OUSPG staff as hired guns for our summer of the hacking :)
+ * Coming up, welcome!
 
 ### Fri 2016-08-09 - Sun 2016-08-12 @ Vectorama
 
- * Coming up, welcome!
- * We will be around at [Vectorama](http://vectorama.info)
-  * Vocational Guidance Counseling and Cunning Hacking Plans at Oulu* Showroom and Lounge
-   * Topi Ruokamo with a strong career interest in wellness technology visits to get some pointers.
-   * Antti Tennivaara and Pyry Lindberg
-  * Onsite Capture the (h4x0red) Flag Combo on Friday 12:00 - 00:00
- * Jani Kenttälä (@janikenttala) and Joachim Viide (@jviide) (re)join OUSPG staff as hired
- guns for our summer of the hacking :)
+ * We were around at [Vectorama](http://vectorama.info)
+ * Vocational Guidance Counseling and Cunning Hacking Plans at Oulu* Showroom and Lounge
+  * Topi Ruokamo with a strong career interest in wellness technology visits to get some pointers.
+  * Antti Tennivaara and Pyry Lindberg from Rovaniemi drop by to chat about studies and game development. Guys turn out to be 8th graders with more experience from software teamwork, python and game jams than your average much older university student might have. :) We end up going through Git conflict resolving & merging with them and Ossi Herrala (@oherrala).
+ * [Onsite Capture the (h4x0red) Flag Combo](http://github.com/ouspg/vecto-ctf/) on Friday 12:00 - 00:00. See the table of results below.
+
+Vectorama CTF "official" for the Rasberry Pi 3 B and 32GB SD-card prize:
+
+| Nick          | Score         | Placement  |
+| ------------- | ------------- | ---------- |
+| dessu         | 5             | winner     |
+| ixutiin       | 2             | runner-up  |
+
+Vectorama CTF "open" for the pros (working in the trade, [Kapsi Ry](http://www.kapsi.fi) or [JK Ry](http://jkry.org) gurus disqualified from the main prize:
+
+| Nick          | Score         | Placement  |
+| ------------- | ------------- | ---------- |
+| turmio        | 12            | winner     |
+| nkapu         | 5             | runner-up  |
 
 ### Tue 2016-06-07 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
