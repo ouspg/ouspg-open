@@ -29,7 +29,7 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Jani Kenttälä (@janikenttala) and Joachim Viide (@jviide) (re)join OUSPG staff as hired guns for our summer of the hacking :)
  * Coming up, welcome!
 
-### Fri 2016-08-09 - Sun 2016-08-12 @ Vectorama
+### Fri 2016-06-09 - Sun 2016-06-12 @ Vectorama
 
  * We were around at [Vectorama](http://vectorama.info)
  * Vocational Guidance Counseling and Cunning Hacking Plans at Oulu* Showroom and Lounge
