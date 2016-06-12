@@ -24,7 +24,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
  * 2016-06-28 advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
 
-## Tue 2016-06-14 @ Tellus, Linnanmaa Campus (12-17)?
+### Tue 2016-06-14 @ Tellus, Linnanmaa Campus (12-17)?
 
  * Jani Kenttälä (@janikenttala) and Joachim Viide (@jviide) (re)join OUSPG staff as hired guns for our summer of the hacking :)
  * Coming up, welcome!
@@ -35,7 +35,7 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Vocational Guidance Counseling and Cunning Hacking Plans at Oulu* Showroom and Lounge
   * Topi Ruokamo with a strong career interest in wellness technology visits to get some pointers.
   * Antti Tennivaara and Pyry Lindberg from Rovaniemi drop by to chat about studies and game development. Guys turn out to be 8th graders with more experience from software teamwork, python and game jams than your average much older university student might have. :) We end up going through Git conflict resolving & merging with them and Ossi Herrala (@oherrala).
-  * @ixutiin comes in to talk and mentions participating in [Koodikärpät](http://koodikarpat.com/) this summer. Discussion spirals in to SDR and radio frequencies and Ossi Herrala (@oherrala) joins in and gives plenty of points, e.g. good work by [Windytan](http://www.windytan.com).
+  * @ixutiin comes in to talk and mentions participating in [Koodikärpät](http://koodikarpat.com/) this summer. Discussion spirals in to SDR and radio frequencies and Ossi Herrala (@oherrala) joins in and gives plenty of pointers, e.g. good work by [Windytan](http://www.windytan.com).
   * Aaro Marjala (@dessu) gets invited to visit OUSPG Open session(s) at Linnanmaa during the summer. We promote him [Tarlab](http://www.tarlab.fi) and Tapsa (@burner) Haapala goes archeology and donates Aaro a bit of old gear to help with home brew networking.
  * [Onsite Capture the (h4x0red) Flag Combo](http://github.com/ouspg/vecto-ctf/) on Friday 12:00 - 00:00. See the table of results below.
 
