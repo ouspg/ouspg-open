@@ -33,7 +33,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Fri 2016-06-09 - Sun 2016-06-12 @ Vectorama
 
- * We were around at [Vectorama](http://vectorama.info)
+ * We were around at [Vectorama](http://vectorama.info), thank you very much to the organizers. A great event!
  * Vocational Guidance Counseling and Cunning Hacking Plans at Oulu* Showroom and Lounge
   * Topi Ruokamo with a strong career interest in wellness technology visits to get some pointers.
   * Antti Tennivaara and Pyry Lindberg from Rovaniemi drop by to chat about studies and game development. Guys turn out to be 8th graders with more experience from software teamwork, python and game jams than your average much older university student might have. :) We end up going through Git conflict resolving & merging with them and Ossi Herrala (@oherrala).
