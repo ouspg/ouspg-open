@@ -24,10 +24,12 @@ If still lost but curious, join #ouspg @ IRCnet.
 
  * 2016-06-28 advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
 
-### Tue 2016-06-14 @ Tellus, Linnanmaa Campus (12-17)?
+### Tue 2016-06-14 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
 
- * Jani Kenttälä (@janikenttala) and Joachim Viide (@jviide) (re)join OUSPG staff as hired guns for our summer of the hacking :)
  * Coming up, welcome!
+ * Our first time at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/), testing out the Square - Teamwork Area.
+ * Group planning around our summer social "startups" [libfuzzerfication] (https://github.com/ouspg/libfuzzerfication/) and trytls. Fresh brains to pick are most welcome.
+ * Jani Kenttälä (@janikenttala) and Joachim Viide (@jviide) (re)join OUSPG staff as hired guns for our summer of the hacking :)
 
 ### Fri 2016-06-09 - Sun 2016-06-12 @ Vectorama
 
@@ -38,6 +40,10 @@ If still lost but curious, join #ouspg @ IRCnet.
   * @ixutiin comes in to talk and mentions participating in [Koodikärpät](http://koodikarpat.com/) this summer. Discussion spirals in to SDR and radio frequencies and Ossi Herrala (@oherrala) joins in and gives plenty of pointers, e.g. good work by [Windytan](http://www.windytan.com).
   * Aaro Marjala (@dessu) gets invited to visit OUSPG Open session(s) at Linnanmaa during the summer. We promote him [Tarlab](http://www.tarlab.fi) and Tapsa (@burner) Haapala goes archeology and donates Aaro a bit of old gear to help with home brew networking.
  * [Onsite Capture the (h4x0red) Flag Combo](http://github.com/ouspg/vecto-ctf/) on Friday 12:00 - 00:00. See the table of results below.
+ * While running the CTF-Combo Mikko Yliniemi (@mikessu), Atte Kettunen (@attekett) and Pauli Huttunen (@WhiteEyeDoll) have initial kick-off meeting as the core team of the [libfuzzerfication](http://github.com/ouspg/libfuzzerfication). Deep dive into technical details was observed.
+ * Prof. Juha Röning drops in to coordinate the work contracts for our summer enforcements.
+ * Mikko Hiltunen ja Juho Juopperi are intercepted in Vectorama crowd and both promise to visit us later this summer.
+ * Ilkka Sovanto (@Wraithh) (NCSC-FI) meets with Christian (Krisu) Wieser (OUSPG) for a walk through of writing M.Sc. thesis and books regular meetings with Christian to ensure steady progress on the writing part.
 
 Vectorama CTF "official" for the Rasberry Pi 3 B and 32GB SD-card prize:
 
