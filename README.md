@@ -24,12 +24,22 @@ If still lost but curious, join #ouspg @ IRCnet.
 
  * 2016-06-28 advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
 
-### Tue 2016-06-14 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
+### Tue 2016-06-21 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
 
  * Coming up, welcome!
- * Our first time at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/), testing out the Square - Teamwork Area.
- * Group planning around our summer social "startups" [libfuzzerfication] (https://github.com/ouspg/libfuzzerfication/) and trytls. Fresh brains to pick are most welcome.
+
+### Tue 2016-06-14 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
+
+ * Our first time at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/), testing out the Square - Teamwork Area, worked out well.
+ * Jani Kenttälä (@janike) and Marko Laakso (@ikisusi) have a initial kick off meeting with the current [Aapo](http://www.oulu.fi/yliopisto/node/37547) project team about an educational security audit. We plan to take two hackathon type sessions during the summer on auditing Aapo in open and educational fashion with help from invited external experts.
+ * Group planning around our summer social "startups" [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) and trytls [TryTLS](https://github.com/ouspg/trytls/). Fresh brains to pick were most welcome.
+  * Both teams presented their plans.
+  * First libfuzzerfied stubs appeared.
+  * TryTLS received expert consultation from Ossi Herrala on SSL/TLS/X.509/DH/CA quirks.
+  * Competition was announced. Team with more contributors to their repo at the end of the summer wins.
  * Jani Kenttälä (@janikenttala) and Joachim Viide (@jviide) (re)join OUSPG staff as hired guns for our summer of the hacking :)
+ * Kasper Kyllönen (@nkapu) is half-way through his first 2 weeks sprint with us. First sprint is about updating the foundations for a affiliated Kippo-honeypot community. Updated instructions will be available in a [public repository](https://github.com/ouspg/kippo-with-sa/).
+ * Ossi Herrala (@oherrala) has a counseling meeting with Christian Wieser (@ameandiel) on [Ossi's B.Sc. thesis](https://github.com/ouspg/secudep/blob/master/thesis/thesis.pdf) on [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/). Ossi's wrap-up: "Implementation progressing. Experiments to be done. Writing almost halfway done. Draft 0 to be delivered to prof next week."
 
 ### Fri 2016-06-09 - Sun 2016-06-12 @ Vectorama
 
@@ -37,10 +47,10 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Vocational Guidance Counseling and Cunning Hacking Plans at Oulu* Showroom and Lounge
   * Topi Ruokamo with a strong career interest in wellness technology visits to get some pointers.
   * Antti Tennivaara and Pyry Lindberg from Rovaniemi drop by to chat about studies and game development. Guys turn out to be 8th graders with more experience from software teamwork, python and game jams than your average much older university student might have. :) We end up going through Git conflict resolving & merging with them and Ossi Herrala (@oherrala).
-  * @ixutiin comes in to talk and mentions participating in [Koodikärpät](http://koodikarpat.com/) this summer. Discussion spirals in to SDR and radio frequencies and Ossi Herrala (@oherrala) joins in and gives plenty of pointers, e.g. good work by [Windytan](http://www.windytan.com).
+  * Samuel Ylitalo (?) (@ixutiin) came in to talk and mentioned participating in [Koodikärpät](http://koodikarpat.com/) this summer. Discussion spiraled in to SDR and radio frequencies and Ossi Herrala (@oherrala) joins in and gives plenty of pointers, e.g. good work by [Windytan](http://www.windytan.com).
   * Aaro Marjala (@dessu) gets invited to visit OUSPG Open session(s) at Linnanmaa during the summer. We promote him [Tarlab](http://www.tarlab.fi) and Tapsa (@burner) Haapala goes archeology and donates Aaro a bit of old gear to help with home brew networking.
- * [Onsite Capture the (h4x0red) Flag Combo](http://github.com/ouspg/vecto-ctf/) on Friday 12:00 - 00:00. See the table of results below.
- * While running the CTF-Combo Mikko Yliniemi (@mikessu), Atte Kettunen (@attekett) and Pauli Huttunen (@WhiteEyeDoll) have initial kick-off meeting as the core team of the [libfuzzerfication](http://github.com/ouspg/libfuzzerfication). Deep dive into technical details was observed.
+ * [Onsite Capture the (h4x0red) Flag Combo](https://github.com/ouspg/vecto-ctf/) on Friday 12:00 - 00:00. See the table of results below.
+ * While running the CTF-Combo Mikko Yliniemi (@mikessu), Atte Kettunen (@attekett) and Pauli Huttunen (@WhiteEyeDoll) have initial kick-off meeting as the core team of the [libfuzzerfication](https://github.com/ouspg/libfuzzerfication). Deep dive into technical details was observed.
  * Prof. Juha Röning drops in to coordinate the work contracts for our summer enforcements.
  * Mikko Hiltunen ja Juho Juopperi are intercepted in Vectorama crowd and both promise to visit us later this summer.
  * Ilkka Sovanto (@Wraithh) (NCSC-FI) meets with Christian (Krisu) Wieser (OUSPG) for a walk through of writing M.Sc. thesis and books regular meetings with Christian to ensure steady progress on the writing part.
@@ -104,6 +114,6 @@ Vectorama CTF "open" for the pros (working in the trade, [Kapsi Ry](http://www.k
 
 ### Tue 2016-05-10 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
 
- * Engaged Ossi Herrala (@oherrala) (Synopsys) on his upcoming BSc. Thesis on the [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/)
+ * Engaged Ossi Herrala (@oherrala) (Synopsys) on his upcoming B.Sc. Thesis on the [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/)
  * Opened ouspg-open github repository to share the plans
  * Opened Slack for the OUSPG and Affiliates, get your invite from OUSPG team
