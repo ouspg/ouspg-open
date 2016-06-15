@@ -11,6 +11,7 @@
   * [x] Fill the university personnel form
   * [x] Deliver the tax form
   * [x] Get the university keys
+  * [x] Sign the work contract
   * [x] (Optional) Get the university/department accounts
  * [x] Setup
   * [x] (Optional) get a workstation/laptop but BYOD is good

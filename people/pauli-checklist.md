@@ -12,6 +12,7 @@
   * [x] Deliver the tax form
   * [ ] Re-deliver the tax form
   * [ ] Get the university keys
+  * [ ] Sign the work contract
   * [ ] (Optional) Get the university/department accounts
  * [ ] Setup
   * [ ] (Optional) get a workstation/laptop but BYOD is good
