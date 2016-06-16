@@ -10,7 +10,7 @@
   * [ ] Bring in the CV & study certificates
   * [x] Fill the university personnel form
   * [x] Deliver the tax form
-  * [ ] Re-deliver the tax form
+  * [x] Re-deliver the tax form
   * [ ] Get the university keys
   * [ ] Sign the work contract
   * [ ] (Optional) Get the university/department accounts
