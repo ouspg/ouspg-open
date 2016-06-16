@@ -22,15 +22,30 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
- * 2016-06-28 advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
+### Tue 2016-06-28 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
+
+ * This will be an advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
+ * Location will be the *Ice Breaker Stage* at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
+ * There is plenty of room for up to 70-80 people so please invite and bring in your friends as well.
+ * Expect hands on activity, **bring out your laptops**!
+ * Preliminary agenda:
+  * *Fuzzing with Docker* by Atte Kettunen (OUSPG)
+  * Collaborative 30 minutes on the State of Art in fuzzing via shared Etherpad. (Everyone)
+  * *libfuzzer* by libfuzzerfication team (OUSPG)
+  * Competitive coding to familiarize ourselves with the idea of fuzzing stubs to bring fuzzing closer to development. (Everyone)
+  * Lightning talks etc.
+ * Plenty of room for other topics, please insert yours with a pull request to this document or just show up and present.
 
 ### Tue 2016-06-21 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
 
  * Coming up, welcome!
+ * Location will be the *the Square - Teamwork Area* at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
+ * Latest news from and brainstorming with libfuzzerfication and TryTLS teams.
+ * Expect a dive into security audits with help of [Katakri](http://formin.fi/public/default.aspx?contentid=328713&contentlan=2&culture=en-US). We are hoping for couple of visiting experts and a practical case study.
 
 ### Tue 2016-06-14 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
 
- * Our first time at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/), testing out the Square - Teamwork Area, worked out well.
+ * Our first time at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/), testing out *the Square - Teamwork Area*, worked out well.
  * Jani Kenttälä (@janike) and Marko Laakso (@ikisusi) have a initial kick off meeting with the current [Aapo](http://www.oulu.fi/yliopisto/node/37547) project team about an educational security audit. We plan to take two hackathon type sessions during the summer on auditing Aapo in open and educational fashion with help from invited external experts.
  * Group planning around our summer social "startups" [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) and trytls [TryTLS](https://github.com/ouspg/trytls/). Fresh brains to pick were most welcome.
   * Both teams presented their plans.
