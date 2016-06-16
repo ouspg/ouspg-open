@@ -25,7 +25,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 ### Tue 2016-06-28 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
 
  * This will be an advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
- * Location will be the *Ice Breaker Stage* at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
+ * Location will be the [*Ice Breaker Stage*](https://www.youtube.com/watch?v=E768QZKgDWw) at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
  * There is plenty of room for up to 70-80 people so please invite and bring in your friends as well.
  * Expect hands on activity, **bring out your laptops**!
  * Preliminary agenda:
