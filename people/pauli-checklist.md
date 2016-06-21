@@ -12,10 +12,10 @@
   * [x] Deliver the tax form
   * [x] Re-deliver the tax form
   * [x] Get the university keys
-  * [ ] Sign the work contract
+  * [ ] Sign the work contract
   * [ ] (Optional) Get the university/department accounts
  * [ ] Setup
-  * [x] (Optional) get a workstation/laptop but BYOD is good
+  * [x] Optional - get a workstation/laptop but BYOD is good
   * [x] Establish IRC presence
    * [x] Get a persistent shell if none yet (e.g. JK Ry)
    * [x] Run tmux (or screen if you must) with irssi (or your favorite client)
