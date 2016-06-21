@@ -53,7 +53,7 @@ If still lost but curious, join #ouspg @ IRCnet.
   * TryTLS received expert consultation from Ossi Herrala on SSL/TLS/X.509/DH/CA quirks.
   * Competition was announced. Team with more contributors to their repo at the end of the summer wins.
  * Jani Kenttälä (@janikenttala) and Joachim Viide (@jviide) (re)join OUSPG staff as hired guns for our summer of the hacking :)
- * Kasper Kyllönen (@nkapu) is half-way through his first 2 weeks sprint with us. First sprint is about updating the foundations for a affiliated Kippo-honeypot community. Updated instructions will be available in a [public repository](https://github.com/ouspg/kippo-with-sa/).
+ * Kasper Kyllönen (@nkapu) is half-way through his first 2 weeks sprint with us. First sprint is about updating the foundations for a affiliated Kippo-honeypot community. Updated instructions will be available in a [public repository](https://github.com/ouspg/honeypots/).
  * Ossi Herrala (@oherrala) has a counseling meeting with Christian Wieser (@ameandiel) on [Ossi's B.Sc. thesis](https://github.com/ouspg/secudep/blob/master/thesis/thesis.pdf) on [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/). Ossi's wrap-up: "Implementation progressing. Experiments to be done. Writing almost halfway done. Draft 0 to be delivered to prof next week."
 
 ### Fri 2016-06-09 - Sun 2016-06-12 @ Vectorama
