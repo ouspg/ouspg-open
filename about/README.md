@@ -1,7 +1,8 @@
 # What is OUSPG
 
-TLDR; We break software. We learn from it, and empower
-the world to ship more secure software - and we've got some results to show. 
+The purpose of the Oulu University Secure Programming Group (OUSPG) is to study, evaluate and develop methods of
+implementing and testing application and system software in order to prevent, discover and eliminate implementation level security vulnerabilities in a pro-active fashion. Our focus is on implementation level security issues and software security testing.
+
 
 # OUSPG Timeline
 
@@ -9,7 +10,7 @@ the world to ship more secure software - and we've got some results to show.
  * 1998 - First [buzz on the bug](http://sunsite.uakom.sk/sunworldonline/swol-08-1998/swol-08-emailbug.html) - Issues on Outlook Express and Netscape Communicator on various platforms
  * 1999 - PROTOS Research starts - the era of systematic black box testing begins
  * 2002 - PROTOS-spinoff [Codenomicon Oy](http://www.codenomicon.com/) is founded
- * 2002 - [PROTOS SNMPv1](   https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1) test material reveals issues in [hundreds of products](http://www.cert.org/historical/advisories/CA-2002-03.cfm#vendors)
+ * 2002 - [PROTOS SNMPv1](https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1) test material reveals issues in [hundreds of products](http://www.cert.org/historical/advisories/CA-2002-03.cfm#vendors)
  * 2004 - [PROTOS Protocol Genome project](https://www.ee.oulu.fi/research/ouspg/genome/) taking the testing from another planet to another universe
  * 2006 - FRONTIER-spinoff [Clarified Networks Oy](https://www.clarifiednetworks.com/) is founded
  * 2006 - Clarified Networks crew wins [VMware ultimate virtual challenge](http://www.vmware.com/mena/company/news/releases/uvac_winners) ($100 000)
@@ -18,6 +19,33 @@ the world to ship more secure software - and we've got some results to show.
  * 2015 - Codenomicon finds the [Heartbleed Bug](http://heartbleed.com/) from OpenSSL
    * affected about 2/3 of the WWW-servers on the Internet
    * also SSL-VPNs, network appliances and wide variety of client-side software
+
+# Impact
+
+ * Practical research outcomes:
+  * The security testing of the popular browsers have proactively improved the security of the software tens of millions of users use every day
+  * The early research prototypes revealed vulnerabilities in the products from hundreds of network equipment and software vendors
+
+ * Spin-offs:
+  * Giving back to the taxpayers: spin-offs employed up to hundred security specialists in years 2012-2015 in Finland.  
+  * Proactive security: commercialized fuzzers have proactively improved the security of our critical infrastructure: telecommunication, healthcare, car industry, finance, and others
+  * Incident handling: A number of countries have moved from purely manual incident reporting to fully automatic, allowing up to 600 times better coverage in their countries
+
+# Publications
+
+* Publications:
+ * [PROTOS publications](https://www.ee.oulu.fi/research/ouspg/Protos)  in the areas of:
+   * proactive elimination of software vulnerabilities, using model-based fuzzing, and
+   * vulnerability coordination.
+ * [PROTOS Genome publications](https://www.ee.oulu.fi/research/ouspg/genome) in the area of model assisted fuzzing.
+ * [FRONTIER COMPAT publications](https://www.ee.oulu.fi/research/ouspg/Frontier-Compat) in the area of analysing the security of complex information networks and systems.
+ * [PROTOS-MATINE publications](https://www.ee.oulu.fi/research/ouspg/PROTOS-MATINE) identify critical components and dependencies by combining different information sources (system specific and public, technical as well as social information sources) and visualizing the results
+ * [FRONTIER RIDAC publications](https://www.ee.oulu.fi/research/ouspg/RIDAC/Publications) in the area of Open Source RFID Audit Framework
+
+# Tools
+
+ * The most recent tools are available at [OUSPG Github](https://github.com/ouspg)
+
 
 # Life after OUSPG
 
