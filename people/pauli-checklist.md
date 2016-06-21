@@ -11,15 +11,15 @@
   * [x] Fill the university personnel form
   * [x] Deliver the tax form
   * [x] Re-deliver the tax form
-  * [ ] Get the university keys
+  * [x] Get the university keys
   * [ ] Sign the work contract
   * [ ] (Optional) Get the university/department accounts
  * [ ] Setup
-  * [ ] (Optional) get a workstation/laptop but BYOD is good
-  * [ ] Establish IRC presence
-   * [ ] Get a persistent shell if none yet (e.g. JK Ry)
-   * [ ] Run tmux (or screen if you must) with irssi (or your favorite client)
-   * [ ] Join #ouspg @ IRCnet
+  * [x] (Optional) get a workstation/laptop but BYOD is good
+  * [x] Establish IRC presence
+   * [x] Get a persistent shell if none yet (e.g. JK Ry)
+   * [x] Run tmux (or screen if you must) with irssi (or your favorite client)
+   * [x] Join #ouspg @ IRCnet
   * [x] Join Slack
   * [x] Join OUSPG at the Github
   * [x] (Optional) Join trello
