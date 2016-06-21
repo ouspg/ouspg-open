@@ -22,10 +22,11 @@ implementing and testing application and system software in order to prevent, di
 
 # Impact
 
- * Practical research outcomes:
+ * Practical research results:
   * The security testing of the popular browsers have proactively improved the security of the software tens of millions of users use every day
-  * The early research prototypes revealed vulnerabilities in the products from hundreds of network equipment and software vendors
-
+  * The early research prototypes revealed vulnerabilities in the products from hundreds of network equipment and software vendors.
+  * The current research tools have revealed hundreds of vulnerabilities in popular WWW-browsers and their underlying technology. 
+  *
  * Spin-offs:
   * Giving back to the taxpayers: spin-offs employed up to hundred security specialists in years 2012-2015 in Finland.  
   * Proactive security: commercialized fuzzers have proactively improved the security of our critical infrastructure: telecommunication, healthcare, car industry, finance, and others
