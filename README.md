@@ -38,7 +38,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-06-21 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
 
- * Back at the *the Square - Teamwork Area* at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
+ * Back at the *Square - Teamwork Area* at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
  * Latest news from and brainstorming with the [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) team:
   * Team reduces [`ouspg/libfuzzer-base`](https://hub.docker.com/r/ouspg/libfuzzer-base/) docker image size radically.
   * Ossi Herrala (@oherrala) conducts rocket science experiments in applying libfuzzer to Haskell.
@@ -52,12 +52,12 @@ If still lost but curious, join #ouspg @ IRCnet.
   * We used [Aapo audit](https://github.com/ouspg/aapo-audit) as a case study.
   * Battle hardened auditors Mikko Kenttälä (@Turmi0) and Mika Seppänen (@mseppanen) of [Synopsys](http://www.codenomicon.com/) visited us to workshop with us and walk us through Katakri in practice.
   * Aapo project team was represented by Laura Saukko, Kaarlo Määttä, Matti Suuronen and Ari Vaulo of University of Oulu and Hannu-Pekka Heinäjärvi of [Futurice](http://futurice.com).
- * Kasper Kyllönen (@nkapu) wraps up the [honeypot push](https://github.com/ouspg/honeypots). Docker packaged [Cowrie](https://github.com/micheloosterhof/cowrie) ended up small and neat compared to our few years old Kippo iteration. Work was done in 71 man hours out of 60 originally allocated, not bad at all. :)
+ * Kasper Kyllönen (@nkapu) wraps up the [honeypot push](https://github.com/ouspg/honeypots). Docker packaged [Cowrie](https://github.com/micheloosterhof/cowrie) ended up small and neat compared to our few years old Kippo iteration. Work was done in 76 man hours out of 60 originally allocated, not bad at all. :)
  * G-BOA (Grand bearded OUSPG Alumni) Erno Kuusela of [Solita](http://www.solita.fi), Ari Kauppi (@kauppi) of Ericsson, Jesse Hulkko (jhulkko) and Jani Huhtala (zaux) with [Kapsi](https://www.kapsi.fi) hat drop in and share ideas and help all the teams and day's topics.
 
 ### Tue 2016-06-14 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
 
- * Our first time at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/), testing out *the Square - Teamwork Area*, worked out well.
+ * Our first time at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/), testing out the *Square - Teamwork Area*, worked out well.
  * Jani Kenttälä (@janike) and Marko Laakso (@ikisusi) have a initial kick off meeting with the current [Aapo](http://www.oulu.fi/yliopisto/node/37547) project team about an educational security audit. We plan to take two hackathon type sessions during the summer on auditing Aapo in open and educational fashion with help from invited external experts.
  * Group planning around our summer social "startups" [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) and trytls [TryTLS](https://github.com/ouspg/trytls/). Fresh brains to pick were most welcome.
   * Both teams presented their plans.
