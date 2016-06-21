@@ -53,7 +53,7 @@ If still lost but curious, join #ouspg @ IRCnet.
   * Battle hardened auditors Mikko Kenttälä (@Turmi0) and Mika Seppänen (@mseppanen) of [Synopsys](http://www.codenomicon.com/) visited us to workshop with us and walk us through Katakri in practice.
   * Aapo project team was represented by Laura Saukko, Kaarlo Määttä, Matti Suuronen and Ari Vaulo of University of Oulu and Hannu-pekka Heinäjärvi of [Futurice](http://futurice.com).
  * Kasper Kyllönen (@nkapu) wraps up the [honeypot push](https://github.com/ouspg/honeypots). Docker packaged [Cowrie](https://github.com/micheloosterhof/cowrie) ended up small and neat compared to our few years old Kippo iteration. Work was done in 71 man hours out of 60 originally allocated, not bad at all. :)
- * G-BOA (Grand bearded OUSPG Alumni) Erno Kuusela of [Solita](http://www.solita.fi), Ari Kauppi (@kauppi) of Ericsson, Jesse Hulkko (jhulkko) and Jani Huhtala (zaux) with [Kapsi](https://www.kapsi.fi) hat drop in and share ideas and help help all the teams and day's topics.
+ * G-BOA (Grand bearded OUSPG Alumni) Erno Kuusela of [Solita](http://www.solita.fi), Ari Kauppi (@kauppi) of Ericsson, Jesse Hulkko (jhulkko) and Jani Huhtala (zaux) with [Kapsi](https://www.kapsi.fi) hat drop in and share ideas and help all the teams and day's topics.
 
 ### Tue 2016-06-14 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
 
