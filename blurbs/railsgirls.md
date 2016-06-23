@@ -28,4 +28,4 @@ Aktiivisimmat työskentelevät/harrastavat ajasta ja paikasta riippumatta
 muulloinkin, pikaviestimien ja GitHubin avulla. Hyvä tapa tulla mukaan on
 kurvata joku tiistai luonamme Telluksessa. Täältä lisätiedot:
 
-https://github.com/ouspg/ouspg-open
+ * https://github.com/ouspg/ouspg-open
