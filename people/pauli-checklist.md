@@ -6,15 +6,15 @@
   * [x] Agree on the topic
   * [x] Agree on the effort
   * [x] Agree on the compensation
- * [ ] Bureaucracy
-  * [ ] Bring in the CV & study certificates
+ * [x] Bureaucracy
+  * [-] Bring in the CV & study certificates
   * [x] Fill the university personnel form
   * [x] Deliver the tax form
   * [x] Re-deliver the tax form
   * [x] Get the university keys
-  * [ ] Sign the work contract
-  * [ ] (Optional) Get the university/department accounts
- * [ ] Setup
+  * [x] Sign the work contract
+  * [x] (Optional) Get the university/department accounts
+ * [x] Setup
   * [x] Optional - get a workstation/laptop but BYOD is good
   * [x] Establish IRC presence
    * [x] Get a persistent shell if none yet (e.g. JK Ry)
@@ -23,7 +23,7 @@
   * [x] Join Slack
   * [x] Join OUSPG at the Github
   * [x] (Optional) Join trello
-  * [ ] (Optional) Join ouspg emaillist(s)
- * [ ] Work
+  * [-] (Optional) Join ouspg emaillist(s)
+ * [x] Work
   * [x] Start to collaborate
   * [x] Enjoy?
