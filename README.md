@@ -30,17 +30,18 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Expect hands on activity, **bring out your laptops**!
  * Preliminary agenda:
   * *Fuzzing with Docker* by Atte Kettunen (OUSPG)
-  * Collaborative 30 minutes on the State of Art in fuzzing via shared Etherpad. (Everyone)
+  * Collaborative 30 minutes on the State of Art in fuzzing via shared Etherpad (Everyone)
   * *libfuzzer* by libfuzzerfication team (OUSPG)
-  * Competitive coding to familiarize ourselves with the idea of fuzzing stubs to bring fuzzing closer to development. (Everyone)
+  * *Fuzzing beyond C* by Ossi Herrala (Synopsys)
+  * Competitive coding to familiarize ourselves with the idea of fuzzing stubs to bring fuzzing closer to development (Everyone)
   * Lightning talks etc.
  * Plenty of room for other topics, please insert yours with a pull request to this document or just show up and present.
- 
+
 ### Video/Audio for presentations
-  * HDMI & VGA connectors. Audio is also transimtted trough HDMI. With VGA, you unfortunately need a cable to connect to 3.5mm audio jack. 
+  * HDMI & VGA connectors. Audio is also transimtted trough HDMI. With VGA, you unfortunately need a cable to connect to 3.5mm audio jack.
   * Handheld microphone and headset (both are wireless)
-  * Digital whiteboard, standalone. You can switch between drawing and presentation. Drawing on top of the presentation is untested. 
-  
+  * Digital whiteboard, standalone. You can switch between drawing and presentation. Drawing on top of the presentation is untested.
+
 ### Tue 2016-06-21 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
 
  * Back at the *Square - Teamwork Area* at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
