@@ -22,7 +22,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
-### Tue 2016-06-28 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
+### Tue 2016-06-28 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * This will be an advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
  * Location will be the [*Ice Breaker Stage*](https://www.youtube.com/watch?v=E768QZKgDWw) at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
