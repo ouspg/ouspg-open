@@ -32,7 +32,7 @@ If still lost but curious, join #ouspg @ IRCnet.
   * *Fuzzing with Docker* by Atte Kettunen (OUSPG)
   * Collaborative 30 minutes on the State of Art in fuzzing via shared Etherpad (Everyone)
   * *libfuzzer* by libfuzzerfication team (OUSPG)
-  * *Fuzzing beyond C* by Ossi Herrala (Synopsys)
+  * *Fuzzing beyond C* by Ossi Herrala (Synopsys) ([slides](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/oherrala-fuzzing-beyond-c.md))
   * Competitive coding to familiarize ourselves with the idea of fuzzing stubs to bring fuzzing closer to development (Everyone)
   * Lightning talks etc.
  * Plenty of room for other topics, please insert yours with a pull request to this document or just show up and present.
