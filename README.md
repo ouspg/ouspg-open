@@ -29,8 +29,8 @@ If still lost but curious, join #ouspg @ IRCnet.
  * There is plenty of room for up to 70-80 people so please invite and bring in your friends as well.
  * Expect hands on activity, **bring out your laptops**!
  * Preliminary agenda:
+  * Collaborative 30 minutes on the State of Art in fuzzing via shared [Etherpad](https://e.kapsi.fi/p/fuzzsota) on Kapsi's infra (Everyone)
   * *Fuzzing with Docker* by Atte Kettunen (OUSPG)
-  * Collaborative 30 minutes on the State of Art in fuzzing via shared [Etherpad](https://e.kapsi.fi/) (Everyone)
   * *libfuzzer* by libfuzzerfication team (OUSPG)
   * *Fuzzing beyond C* by Ossi Herrala (Synopsys) ([slides](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/oherrala-fuzzing-beyond-c.md))
   * Competitive coding to familiarize ourselves with the idea of fuzzing stubs to bring fuzzing closer to development (Everyone)
