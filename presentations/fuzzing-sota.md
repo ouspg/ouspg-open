@@ -1,6 +1,6 @@
 # Fuzzing state of the art
 
-*by 22 mostly anonymous workshop participants (from OUSPG, Synopsys, NCSC-FI, F-Secure, Solita, Ericsson)*
+*by 22 mostly anonymous workshop participants (from OUSPG, Synopsys, NCSC-FI, F-Secure, Solita, Ericsson, Bittium)*
 
 Fuzzing is about breaking contracts, rules, boundaries, software and systems.
 
