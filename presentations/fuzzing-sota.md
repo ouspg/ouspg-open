@@ -1,6 +1,6 @@
 # Fuzzing state of the art
 
-*by 21 mostly anonymous workshop participants (including ...)*
+*by 22 mostly anonymous workshop participants (from OUSPG, Synopsys, NCSC-FI, F-Secure, Solita, Ericsson)*
 
 Fuzzing is about breaking contracts, rules, boundaries, software and systems.
 
@@ -22,7 +22,7 @@ Fuzzing has helped us to break things in order to learn what to fix or how to bu
   * other feedback driven
  * zero case: generate all possible inputs in order
  * cat /dev/random > (only one that can find everything - [within certain "theoretical" limits](https://en.wikipedia.org/wiki/Limits_to_computation))
-  * Ultimate limit of Life, Universe and Fuzzing = 42?
+  * Ultimate Limit of Life, Universe and Fuzzing = 42?
  * mutational
  * white-box
  * black-box
@@ -123,6 +123,7 @@ Since fuzzing shows how bad everything is, which mitigations may reduce impact?
 * OpenBSD's [pledge(2)](http://man.openbsd.org/OpenBSD-current/man2/pledge.2) (superior to apparmor/selinux)
 * Linux's grsecurity or seccomp
   * Or SELinux (/me runs)
+  * or a polished holisti sandbox platform like sandstorm.io (for server) or web browsers (client)
 * object permissions (eg protect sensitive data/processes/TCB with filesystem permissions to provide additional layers of defense)
 * privsep and sandboxing in general
 * engineering/customer incentivisation and education to reject fundamentally unsafe tech
@@ -152,6 +153,8 @@ Since fuzzing shows how bad everything is, which mitigations may reduce impact?
  * Make tools easy to use
  * Bug bounty as a service
 
+## How to find good fuzzing targets?
+
 ## How to become an uber-cool fuzz-wizard?
 
  * Good books/papers etc. to read?
@@ -178,17 +181,19 @@ Since fuzzing shows how bad everything is, which mitigations may reduce impact?
  * [radamsa](https://github.com/aoh/radamsa)
  * [AFL](http://lcamtuf.coredump.cx/afl/)
  * libfuzzer (http://llvm.org/docs/LibFuzzer.html)
+  * Not just libs, any parsers or decoders or etc. taking (external) input in your code.
+  * Fuzzer for Functions!
  * QuickCheck (and other language ports)
- * CERT-CC [BFF](https://www.cert.org/vulnerability-analysis/tools/bff.cfm?) & [FOE](https://www.cert.org/vulnerability-analysis/tools/foe.cfm?)
+ * CERT-CC [BFF](https://www.cert.org/vulnerability-analysis/tools/bff.cfm?) & [FOE](https://www.cert.org/vulnerability-analysis/tools/foe.cfm)
  * [Driller](https://www.internetsociety.org/sites/default/files/blogs-media/driller-augmenting-fuzzing-through-selective-symbolic-execution.pdf) (Looks like not yet open source, but idea looks legit.)
- * jFuzz (NASA Java Pathfinder concolic fuzzer)
+ * [jFuzz](https://people.csail.mit.edu/akiezun/jfuzz/) (NASA Java Pathfinder concolic fuzzer)
 
 ## Coverage (white/black-box)
 
  * What is good coverage for fuzzing anyway? (https://www.inf.ethz.ch/personal/basin/pubs/issta13.pdf claims to have answers)
   * [asancoverage](http://clang.llvm.org/docs/SanitizerCoverage.html)
   * AFL instrumentation (reusable in other projects)
-  * AFL's QEMU "user space emulation" mode( https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/june/project-triforce-run-afl-on-everything/ )
+  * AFL's QEMU "user space emulation" mode (https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/june/project-triforce-run-afl-on-everything/)
  * Intel PT
   * honggfuzz has pretty good implementation, can use external fuzzing engine like radamsa with it
  * Built-in (compile time) coverage hooks vs. emulator or processor level coverage
@@ -218,12 +223,12 @@ Since fuzzing shows how bad everything is, which mitigations may reduce impact?
 
 ## Managed/Script languages
 
- * Still worth fuzzing
+ * Platforms: Still worth fuzzing
   * Less managed Deps
   * Unexpected failures of 3rd kind
   * Used native code
   * Undocumented features. (Use coverage)
- * apps plenty worth fuzzing (input validation, missing perm checks, info leaks, DoS etc)
+ * Apps: plenty worth fuzzing (input validation, missing perm checks, info leaks, DoS etc)
 
 ## Functional languages
 
@@ -242,3 +247,4 @@ Since fuzzing shows how bad everything is, which mitigations may reduce impact?
  * New/emerging targets for fuzzing?
  * Competing/complementary methodologies? Or has the concept of "fuzzing" grown to encompass most of them?
  * Low hanging fruit directs development of fuzzing tech (eg. most effort spent on tooling for unsafe languages)
+ * Vuln generation for fuzzer benchmarking. Auto-generate vulns and compare how fuzzers find them, http://www.ieee-security.org/TC/SP2016/papers/0824a110.pdf "LAVA: Large-scale Automated Vulnerability Addition"

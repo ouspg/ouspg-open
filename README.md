@@ -24,23 +24,19 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-06-28 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
- * This will be an advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
- * Location will be the [*Ice Breaker Stage*](https://www.youtube.com/watch?v=E768QZKgDWw) at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
- * There is plenty of room for up to 70-80 people so please invite and bring in your friends as well.
- * Expect hands on activity, **bring out your laptops**!
- * Preliminary agenda:
-  * Collaborative 30 minutes on the State of Art in fuzzing via shared [Etherpad](https://e.kapsi.fi/p/fuzzsota) on Kapsi's infra (Everyone)
+ * This was an advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
+ * Location was the [*Ice Breaker Stage*](https://www.youtube.com/watch?v=E768QZKgDWw) at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
+ * Impressive 22 fuzzing experts from OUSPG, Synopsys, NCSC-FI, F-Secure, Solita, Ericsson and Bittium participated.
+ * Plenty of hands on activity, people **brought their laptops**!
+ * Agenda:
+  * Collaborative ~~30~~ 90 minutes on the State of Art in fuzzing via shared [Etherpad](https://e.kapsi.fi/p/fuzzsota) on Kapsi's infra (Everyone) ->
+   * see [the fun of making it video](https://www.youtube.com/watch?v=UrhRUKgeDQI)
+   * see [the resulting whipepaper](presentations/fuzzing-sota.md)
   * *Fuzzing with Docker* by Atte Kettunen (OUSPG)
   * *libfuzzer* by libfuzzerfication team (OUSPG)
   * *Fuzzing beyond C* by Ossi Herrala (Synopsys) ([slides](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/oherrala-fuzzing-beyond-c.md))
-  * Competitive coding to familiarize ourselves with the idea of fuzzing stubs to bring fuzzing closer to development (Everyone)
-  * Lightning talks etc.
- * Plenty of room for other topics, please insert yours with a pull request to this document or just show up and present.
-
-### Video/Audio for presentations
-  * HDMI & VGA connectors. Audio is also transimtted trough HDMI. With VGA, you unfortunately need a cable to connect to 3.5mm audio jack.
-  * Handheld microphone and headset (both are wireless)
-  * Digital whiteboard, standalone. You can switch between drawing and presentation. Drawing on top of the presentation is untested.
+  * Competitive coding to familiarize ourselves with the idea of [fuzzing stubs](https://github.com/ouspg/libfuzzerfication) to bring fuzzing closer to development (Everyone)
+ * Thank you all!
 
 ### Tue 2016-06-21 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
 
