@@ -22,6 +22,11 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
+### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
+
+ * Coming up, welcome!
+ * Back at the TO BE DEFINED SPACE at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
+
 ### Tue 2016-06-28 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * This was an advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
@@ -29,7 +34,7 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Impressive 22 fuzzing experts from OUSPG, Synopsys, NCSC-FI, F-Secure, Solita, Ericsson and Bittium participated.
  * Plenty of hands on activity, people **brought their laptops**!
  * Agenda:
-  * Collaborative ~~30~~ 90 minutes on the State of Art in fuzzing via shared [Etherpad](https://e.kapsi.fi/p/fuzzsota) on Kapsi's infra (Everyone) ->
+  * Collaborative ~~30~~ 90 minutes on the State of Art in fuzzing via shared [Etherpad](https://e.kapsi.fi/p/fuzzsota) on Kapsi's infra (Everyone)
    * see [the fun of making it video](https://www.youtube.com/watch?v=UrhRUKgeDQI)
    * see [the resulting whipepaper](presentations/fuzzing-sota.md)
   * *Fuzzing with Docker* by Atte Kettunen (OUSPG)
