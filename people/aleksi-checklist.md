@@ -6,12 +6,12 @@
   * [x] Agree on the topic
   * [x] Agree on the effort
   * [x] Agree on the compensation
- * [ ] Bureaucracy
+ * [x] Bureaucracy
   * [x] Bring in the (CV) & study certificates
   * [x] Fill the university personnel form
   * [x] Deliver the tax form
-  * [ ] Get the university keys
-  * [ ] Sign the work contract
+  * [x] Get the university keys
+  * [x] Sign the work contract
   * [ ] (Optional) Get the university/department accounts
  * [ ] Setup
   * [x] (Optional) get a workstation/laptop but BYOD is good
@@ -23,6 +23,6 @@
   * [+] Join OUSPG at the Github
   * [x] (Optional) Join trello
   * [ ] (Optional) Join ouspg emaillist(s)
- * [ ] Work
-  * [ ] Start to collaborate
-  * [ ] Enjoy?
+ * [x] Work
+  * [x] Start to collaborate
+  * [x] Enjoy?
