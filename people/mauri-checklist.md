@@ -10,8 +10,8 @@
   * [x] Bring in the (CV) & study certificates
   * [x] Fill the university personnel form
   * [x] Deliver the tax form
-  * [ ] Get the university keys
-  * [ ] Sign the work contract
+  * [x] Get the university keys
+  * [x] Sign the work contract
   * [ ] (Optional) Get the university/department accounts
  * [ ] Setup
   * [ ] (Optional) get a workstation/laptop but BYOD is good
