@@ -22,7 +22,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
-### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
+### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * Coming up, welcome!
  * Back at the TO BE DEFINED SPACE at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
@@ -43,7 +43,7 @@ If still lost but curious, join #ouspg @ IRCnet.
   * Competitive coding to familiarize ourselves with the idea of [fuzzing stubs](https://github.com/ouspg/libfuzzerfication) to bring fuzzing closer to development (Everyone)
  * Thank you all!
 
-### Tue 2016-06-21 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
+### Tue 2016-06-21 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * Back at the *Square - Teamwork Area* at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
  * Latest news from and brainstorming with the [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) team:
@@ -62,7 +62,7 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Kasper Kyllönen (@nkapu) wraps up the [honeypot push](https://github.com/ouspg/honeypots). Docker packaged [Cowrie](https://github.com/micheloosterhof/cowrie) ended up small and neat compared to our few years old Kippo iteration. Work was done in 76 man hours out of 60 originally allocated, not bad at all. :)
  * G-BOA (Grand bearded OUSPG Alumni) Erno Kuusela of [Solita](http://www.solita.fi), Ari Kauppi (@kauppi) of Ericsson, Jesse Hulkko (jhulkko) and Jani Huhtala (zaux) with [Kapsi](https://www.kapsi.fi) hat drop in and share ideas and help all the teams and day's topics.
 
-### Tue 2016-06-14 @ Tellus Innovation Arena, Linnanmaa Campus (12-17)
+### Tue 2016-06-14 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * Our first time at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/), testing out the *Square - Teamwork Area*, worked out well.
  * Jani Kenttälä (@janike) and Marko Laakso (@ikisusi) have a initial kick off meeting with the current [Aapo](http://www.oulu.fi/yliopisto/node/37547) project team about an educational security audit. We plan to take two hackathon type sessions during the summer on auditing Aapo in open and educational fashion with help from invited external experts.
@@ -103,7 +103,7 @@ Vectorama CTF "open" for the pros (working in the trade, [Kapsi Ry](https://www.
 | turmio        | 12            | winner     |
 | nkapu         | 5             | runner-up  |
 
-### Tue 2016-06-07 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+### Tue 2016-06-07 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
 
  * Pauli Huttunen (@WhiteEyeDoll) came to wonder how many clustered virtualization platforms could one person learn about, break and fix in a single summer.
  * Heikki Vesa visited to network. Heikki has long running and interesting hobbies ranging from lock picking, reverse engineering to building honeypots. Linked Heikki with [Tarlab](http://www.tarlab.fi) and @turmio.
@@ -112,7 +112,7 @@ Vectorama CTF "open" for the pros (working in the trade, [Kapsi Ry](https://www.
  * Kick-off meeting of libfuzzerification with Mikko, Pauli, Atte (browserbane) Kettunen, Mauri and Aleksi.
  * Jani Tuovila (@replicant2020) from Bittium visited to get an update and ask few  [Kippo](https://docs.google.com/document/d/1alb60WiWMzghZlApgfqfh5LF2mjn-U0Nm8WeKcPD-hI/edit?usp=sharing)-questions.
 
-### Fri 2016-06-03 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+### Fri 2016-06-03 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
 
  * Mikko Yliniemi (@mikessu) visited to prepare for the OUSPG intership starting next Monday.
  * Jani Tuovila (@replicant2020) from Bittium visited to network and share experiences from Capture the Flag competitions. Jani was convinced to join our Kippo medium interaction honeypot network.
@@ -126,7 +126,7 @@ Vectorama CTF "open" for the pros (working in the trade, [Kapsi Ry](https://www.
 
 ## May 2016: Open Doors at the OUSPG
 
-### Tue 2016-05-24 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+### Tue 2016-05-24 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
 
  * Joonas Kuorilehto (@joneskoo), Maria Toro and Kimmo Toro from F-Secure visit to discuss devops, fuzzing and practical co-op opportunities in Oulu area.
  * Mikko Yliniemi (@mikessu) visits to plan month Master's phase internship.
@@ -136,7 +136,7 @@ Vectorama CTF "open" for the pros (working in the trade, [Kapsi Ry](https://www.
  * Janne Määttä (Synopsys) revisited - zeroing in to the scope to avoid accidental Ph.D.
  * OUSPG Open referenced at [Kaleva]( http://www.kaleva.fi/uutiset/kotimaa/tietokoneen-tilttaaminen-turhauttaa-mutta-bugien-metsastaja-voi-tienata-koodivirheilla-tuhansia/728427/)
 
-### Tue 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+### Tue 2016-05-17 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
 
  * Antti Järvinen (old school hacker with many hats) visited and is looking for collaborators to continue.
  work on the his [server-free p2p communication software called Classified ads](http://katiska.org/classified-ads/). Seems perfect for crisis comms
@@ -146,7 +146,7 @@ Vectorama CTF "open" for the pros (working in the trade, [Kapsi Ry](https://www.
  * Engaged Ilkka Sovanto (@Wraithh) (NCSC-FI) on his M.Sc. thesis about [a testbench/rack of various published and proposed algorithms and tools to extract evil from network events](https://github.com/ouspg/pahuus/).
  * Had a visit from Janne Määttä (Synopsys) about M.Sc. thesis topic. Initial discussions revolved around protocol reverse engineering and MITM-tools. We will get back to this next week.
 
-### Tue 2016-05-10 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12-17)
+### Tue 2016-05-10 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
 
  * Engaged Ossi Herrala (@oherrala) (Synopsys) on his upcoming B.Sc. Thesis on the [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/)
  * Opened ouspg-open github repository to share the plans
