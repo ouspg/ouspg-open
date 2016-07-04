@@ -25,8 +25,14 @@ If still lost but curious, join #ouspg @ IRCnet.
 ### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * Coming up, welcome!
- * Back at the TO BE DEFINED SPACE at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
-
+ * Back at the *Frost Club* (12:00 - 14:00) and *Square - Teamwork Area* (14:00 - 17:00) at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
+ * Status update presentations and brainstorming (12:00 - 14:00) at the *Frost Club*
+  * Imoh Edet visits to tell us about the IoT testlab progress
+  * Mikko Yliniemi (@mikessu) updates us on the [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) progress
+  * Mauri Miettinen (@vaulthunter) updates us on the [TryTLS](https://github.com/ouspg/trytls/)
+  * Kasper Kyllönen (@nkapu) kickstarts the [URL handlers](https://github.com/nkapu/handlers/) in the OUSPG context
+ * Hands on hacking and planning on follows at the *Square - Teamwork Area* (14:00 - 17:00)
+  
 ### Tue 2016-06-28 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * This was an advanced fuzzing workshop to share experiences with exotic platforms, fuzzing engines, speed and other drugs. :)
