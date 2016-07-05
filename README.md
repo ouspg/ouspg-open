@@ -22,7 +22,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
-### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
+### Tue 2016-07-12 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * Coming up, welcome!
  * TBD
