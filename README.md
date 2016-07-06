@@ -31,7 +31,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
  * It was a rainy and stormy day and there as a very big screen. :)
  * Back at the *Frost Club* (12:00 - 14:00) and *Square - Teamwork Area* (14:00 - 17:00) at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
- * Status update presentations and brainstorming (12:00 - 14:00) at the *Frost Club*
+ * Status update presentations and brainstorming (12:00 - 14:00) at the *Frost Club* - [YouTube capture](https://youtu.be/gK_wQ4pXoqI)
   * Imoh Edet and Bastien Coeuret visits to tell us about the IoT security analysis and testlab progress
   * Mikko Yliniemi (@mikessu) updates us on the [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) progress
   * Mauri Miettinen (@vaulthunter) updates us on the [TryTLS](https://github.com/ouspg/trytls/)
