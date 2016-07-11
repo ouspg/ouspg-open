@@ -24,10 +24,10 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-07-12 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
- * Next up *Frost Club* training (12:00 - 17:00) 
+ *Frost Club* training (12:00 - 17:00) 
  * Check out the cozy/inspiring atmosphere from [last week session video](https://youtu.be/gK_wQ4pXoqI)
- * [TryTLS](https://github.com/ouspg/trytls/) hands-on training to easily test wether *your* favourite library checks certificates properly.
- * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) hands-on training on easy libfuzzer testing. 
+ * [TryTLS](https://github.com/ouspg/trytls/) team starts with hands-on training to easily test wether *your* favourite library checks certificates properly.
+ * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) follows up with hands-on training on easy libfuzzer testing. 
 
 ### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
