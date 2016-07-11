@@ -28,6 +28,7 @@ If still lost but curious, join #ouspg @ IRCnet.
  * Check out the cozy/inspiring atmosphere from [last week session video](https://youtu.be/gK_wQ4pXoqI)
  * [TryTLS](https://github.com/ouspg/trytls/) team starts with hands-on training to easily test wether *your* favourite library checks certificates properly.
  * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) follows up with hands-on training on easy libfuzzer testing. 
+   * [Preview of what is coming up](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/stub_writing.md#1)
 
 ### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
