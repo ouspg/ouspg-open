@@ -9,11 +9,15 @@ kakstoista etteenpäin? Kysyttiin Sypsyykseltä tilat Yrjönkavulta ja ne anto,
 kuha Kortin Heikki otetaan mukkaan. Se onki mukava mies, nii sanottiin että
 kaupat tuli.
 
+Toiveena ois että Suomen kyperturvallisuudesta vastuuta kantavat vieraat
+kertovat kuulumisensa. Saatamma sitte siitä kirkolle lähtijä, että jos
+iltavappaata löytyy niin mukkaa vaa.
+
 
 Mitä:
  * 20 vuotta OUSPG:tä - mitä on tullutkaan tehtyä
  * OUSPG Open kesäpöhinät - mitä ne nyt meni tekemään?
-   * Kasper Kyllönen 17v & URL Handlers.
+   * Esimerkki: Kasper Kyllönen 17v ja URL Handlerit.
  * Tulevaisuus
 
 Missä:
