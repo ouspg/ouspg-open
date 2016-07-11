@@ -1,5 +1,9 @@
 # OUSPG Open goes Helsinki
 
+![Oulun uuvet pöhinät](open.png)
+*OO US PEEKEen avoimet kesäpöhinät popularisoi fussausta ja TLS-tarkastuksia*
+
+
 Jokunen OO US PEEKE alumni päätti pöllyyttää vähä vanahentummaan päin olevaa
 Oulu tietoturvaskeneä. Siinä tuli sitte semmone OO US PEEKEE Ouppeni
 joho houkuteltiin nuorempija opiskelijoita hommiin. Samalla tultiin täyttäneeks
