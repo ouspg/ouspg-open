@@ -33,7 +33,7 @@ If still lost but curious, join #ouspg @ IRCnet.
   * ...
  * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) follows up with hands-on training on easy libfuzzer testing.
    * [Preview of what is coming up](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/stub_writing.md#1)
- * Jani Tuovila (@replicant2020) from Bittium drops in as well, unfortunately without lapstop this time.
+ * Jani Tuovila (@replicant2020) from Bittium and Antero Metso drop in as well, unfortunately without their laptops this time.
  * There will be a Sauna excursion from 18:00 to 20:00, details forthcoming.
 
 ### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
