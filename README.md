@@ -30,7 +30,8 @@ If still lost but curious, join #ouspg @ IRCnet.
   * Coogle Cloud Platform App Engine URL Fetch Service - Christian Wieser (@chwieser) of OUSPG
   * clojure - Aki Helin (@aoh) of [Solita](https://www.solita.fi)
   * idiokit - Ville Kalliokoski and Timo Mattila of [Synopsys](https://www.codenomicon.com) AbuseSA team
-  * ...
+  * python requests - Jani Kenttälä of OUSPG
+ 
  * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) follows up with hands-on training on easy libfuzzer testing.
    * [Preview of what is coming up](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/stub_writing.md#1)
  * Jani Tuovila (@replicant2020) from Bittium and Antero Metso drop in as well, unfortunately without their laptops this time.
