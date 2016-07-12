@@ -25,17 +25,20 @@ If still lost but curious, join #ouspg @ IRCnet.
 ### Tue 2016-07-12 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * Strangely attracted to the *Frost Club* at the the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
- * [TryTLS](https://github.com/ouspg/trytls/) team starts with hands-on training to easily test whether *your* favourite library checks certificates properly. TryTLS stubs were started / written:
+ * [TryTLS](https://github.com/ouspg/trytls/) team starts with hands-on training to easily test whether *your* favourite library checks certificates properly. TryTLS stubs were started:
+  * Intro by Mauri
   * stubs/php-file-get-contents - Marko Laakso (@ikisusi) & Kasper Kyllönen (@nkapu)
   * Coogle Cloud Platform App Engine URL Fetch Service - Christian Wieser (@chwieser) of OUSPG
-  * clojure - Aki Helin (@aoh) of [Solita](https://www.solita.fi)
+  * clojure-http-kit - Aki Helin (@aoh) of [Solita](https://www.solita.fi)
   * idiokit - Ville Kalliokoski and Timo Mattila of [Synopsys](https://www.codenomicon.com) AbuseSA team
   * python requests - Jani Kenttälä of OUSPG
- 
+  * bash-openssl-sclient - Aleksi Klasila (@) of OUSPG TryTLS team
+  * rust-rustls - Ossi Herrala of [Synopsys](https://www.codenomicon.com)
+  * ...
  * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) follows up with hands-on training on easy libfuzzer testing.
-   * [Preview of what is coming up](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/stub_writing.md#1)
- * Jani Tuovila (@replicant2020) from Bittium and Antero Metso drop in as well, unfortunately without their laptops this time.
- * There will be a Sauna excursion from 18:00 to 20:00, details forthcoming.
+   * [Intro](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/stub_writing.md#1) by Mikko (@mikessu)
+ * Jani Tuovila (@replicant2020) from Bittium drops in as well, unfortunately without lapstop this time.
+ * There will be a Sauna excursion from 18:00 to 20:00 @ [Oulun Sauna](http://www.oulunsauna.fi).
 
 ### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
