@@ -24,11 +24,17 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-07-12 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
- *Frost Club* training (12:00 - 17:00) 
- * Check out the cozy/inspiring atmosphere from [last week session video](https://youtu.be/gK_wQ4pXoqI)
- * [TryTLS](https://github.com/ouspg/trytls/) team starts with hands-on training to easily test whether *your* favourite library checks certificates properly.
- * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) follows up with hands-on training on easy libfuzzer testing. 
+ * Strangely attracted to the *Frost Club* at the the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
+ * [TryTLS](https://github.com/ouspg/trytls/) team starts with hands-on training to easily test whether *your* favourite library checks certificates properly. TryTLS stubs were started / written:
+  * stubs/php-file-get-contents - Marko Laakso (@ikisusi) & Kasper Kyllönen (@nkapu)
+  * Coogle Cloud Platform App Engine URL Fetch Service - Christian Wieser (@chwieser) of OUSPG
+  * clojure - Aki Helin (@aoh) of [Solita](https://www.solita.fi)
+  * idiokit - Ville Kalliokoski and Timo Mattila of [Synopsys](https://www.codenomicon.com) AbuseSA team
+  * ...
+ * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) follows up with hands-on training on easy libfuzzer testing.
    * [Preview of what is coming up](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/stub_writing.md#1)
+ * Jani Tuovila (@replicant2020) from Bittium drops in as well, unfortunately without lapstop this time.
+ * There will be a Sauna excursion from 18:00 to 20:00, details forthcoming.
 
 ### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
@@ -89,7 +95,7 @@ If still lost but curious, join #ouspg @ IRCnet.
   * Competition was announced. Team with more contributors to their repo at the end of the summer wins.
  * Jani Kenttälä (@janikenttala) and Joachim Viide (@jviide) (re)join OUSPG staff as hired guns for our summer of the hacking :)
  * Kasper Kyllönen (@nkapu) is half-way through his first 2 weeks sprint with us. First sprint is about updating the foundations for a affiliated Kippo-honeypot community. Updated instructions will be available in a [public repository](https://github.com/ouspg/honeypots/).
- * Ossi Herrala (@oherrala) has a counseling meeting with Christian Wieser (@ameandiel) on [Ossi's B.Sc. thesis](https://github.com/ouspg/secudep/blob/master/thesis/thesis.pdf) on [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/). Ossi's wrap-up: "Implementation progressing. Experiments to be done. Writing almost halfway done. Draft 0 to be delivered to prof next week."
+ * Ossi Herrala (@oherrala) has a counseling meeting with Christian Wieser (@chwieser) on [Ossi's B.Sc. thesis](https://github.com/ouspg/secudep/blob/master/thesis/thesis.pdf) on [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/). Ossi's wrap-up: "Implementation progressing. Experiments to be done. Writing almost halfway done. Draft 0 to be delivered to prof next week."
 
 ### Fri 2016-06-09 - Sun 2016-06-12 @ Vectorama
 
