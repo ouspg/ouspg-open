@@ -20,6 +20,10 @@ If you want to impress your cousin you may make a pull request against this file
 
 If still lost but curious, join #ouspg @ IRCnet.
 
+## Coming up topics (no date assigned yet)
+
+ * What we learned from (insanely) repo-centric workflow
+
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
 ### Tue 2016-07-12 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
