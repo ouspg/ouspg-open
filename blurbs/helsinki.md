@@ -37,4 +37,4 @@ Missä:
  * Synopsysken Government Showroom, Yrjönkatu 11, Helsinki
 
 Milloin:
- * Perjantaina 5.8 klo 12:00
+ * Perjantaina 5.8 klo 12:00. Poistuminen oman mielenkiinnon mukaan. :) 
