@@ -43,7 +43,7 @@ If still lost but curious, join #ouspg @ IRCnet.
    * [Howto write libfuzzerfication stubs](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/stub_writing.md#1) by Mikko Yliniemi (@mikessu)
    * `mysamplelib` - a demonstration stub against simple artificial target by Marko Laakso (@ikisusi)
  * Jani Tuovila (@replicant2020) from Bittium drops in as well, unfortunately without lapstop this time.
- * There as a Sauna excursion from 18:00 to 20:00 @ [Oulun Sauna](http://www.oulunsauna.fi). The Sauna was excellent, a swim in the river relaxing, our company was enjoyable and weather was smiling at us. :)
+ * There was a Sauna excursion from 18:00 to 20:00 @ [Oulun Sauna](http://www.oulunsauna.fi). The Sauna was excellent, a swim in the river relaxing, our company was enjoyable and weather was smiling at us. :)
 
 ### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
