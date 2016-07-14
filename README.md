@@ -36,9 +36,13 @@ If still lost but curious, join #ouspg @ IRCnet.
   * clojure-http-kit - Aki Helin (@aoh) of [Solita](https://www.solita.fi)
   * idiokit - Ville Kalliokoski and Timo Mattila of [Synopsys](https://www.codenomicon.com) AbuseSA team
   * python requests - Jani Kenttälä of OUSPG
+<<<<<<< HEAD
   * bash-openssl-sclient - Aleksi Klasila (@) of OUSPG TryTLS team
   * rust-rustls - Ossi Herrala of [Synopsys](https://www.codenomicon.com)
   * ...
+=======
+
+>>>>>>> d99f4a17f13128af0f7a80475403d78a606422cf
  * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) follows up with hands-on training on easy libfuzzer testing.
    * [Intro](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/stub_writing.md#1) by Mikko (@mikessu)
  * Jani Tuovila (@replicant2020) from Bittium drops in as well, unfortunately without lapstop this time.
@@ -181,3 +185,15 @@ Vectorama CTF "open" for the pros (working in the trade, [Kapsi Ry](https://www.
  * Engaged Ossi Herrala (@oherrala) (Synopsys) on his upcoming B.Sc. Thesis on the [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/)
  * Opened ouspg-open github repository to share the plans
  * Opened Slack for the OUSPG and Affiliates, get your invite from OUSPG team
+
+## Videos
+
+Short videos of happenings during OUSPG Open on summer 2016.
+
+ * [Finnish Cyber Security Scene](https://www.youtube.com/watch?v=Xd6qjCLHDbQ)
+ * [Open session 2016-06-07 - we need a bigger room!](https://www.youtube.com/watch?v=XBs6Q_rcgoc)
+ * [OUSPG Open - TryTLS and Libfuzzerfication teams kick off @ Tellus](https://www.youtube.com/watch?v=YYGVykWtk2s)
+ * [Aapo as a case study for audit ponderings](https://www.youtube.com/watch?v=RwTHZqhxExU)
+ * [OUSPG Open - Fuzzing Workshop at Tellus Ice Breaker Stage](https://www.youtube.com/watch?v=UrhRUKgeDQI)
+ * [OUSPG Open - Frost Club Presentations](https://www.youtube.com/watch?v=gK_wQ4pXoqI)
+ * [How to make money with computers?](https://www.youtube.com/watch?v=xucgT9BBzIE)
