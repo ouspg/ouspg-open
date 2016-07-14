@@ -28,8 +28,10 @@ iltavappaata löytyy niin mukkaa vaa.
 Mitä:
  * 20 vuotta OUSPG:tä - mitä on tullutkaan tehtyä
  * OUSPG Open kesäpöhinät - mitä ne nyt meni tekemään?
-   * Esimerkki: Kasper Kyllönen 17v ja URL Handlerit.
  * Tulevaisuus
+ * Käytännön esimerkki kesäpöhinöistä: Kasper Kyllönen 17v 
+    * [URL Handlerit](https://github.com/ouspg/urlhandlers) ja 
+    * [Honeypot-päivitys](https://github.com/ouspg/honeypots)
 
 Missä:
  * Synopsysken Government Showroom, Yrjönkatu 11, Helsinki
