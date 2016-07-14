@@ -1,13 +1,20 @@
 # OUSPG Open goes Helsinki
 
+
+TL;DR OUSPG Open goes Helsinki. Muisteloidaan nopeasti
+OUSPG 20 vuoden tarina, katsotaan mitä opimme OUSPG Open kesäpöhinöistä ja valoitetaan vähän mitäs uutta Oulusta on odotettivissa tulevaisuudessa.
+
+Perjantaina 5.8 klo 12:00 Yrjönkatu 11, Helsinki. Tervetuloa!
+
+----
+
 ![Oulun uuvet pöhinät](open.png)
 *OO US PEEKEen avoimet kesäpöhinät popularisoi fussausta ja TLS-tarkastuksia*
 
 Alakkonää mua Perjantaina 5.8 kello kakstoista etteenpäin?
 
 Muutama OUSPEEKEE alumni päätti vähä pistää hommia tolokummaks.
-Ekana synty semmone OUSPEEKEE Ouppeni. Samalla tultiin täyttäneeks kakskytä.
-Tulevaisuuvelle on kovat suunitelemat.
+Ekana synty semmone OUSPEEKEE Ouppeni. Samalla tultiin täyttäneeks kakskytä. Tulevaisuuvelle on kovat suunitelemat.
 
 On ollu sen verta jännää, että aateltiin, että isolla kirkolla pitäs käyvä
 kertomassa kuulumiset. Kysyttiin Sypsyykseltä tilat Yrjönkavulta ja ne anto,
@@ -28,4 +35,4 @@ Missä:
  * Synopsysken Government Showroom, Yrjönkatu 11, Helsinki
 
 Milloin:
- * Perjantaina 5.8 klo 12
+ * Perjantaina 5.8 klo 12:00
