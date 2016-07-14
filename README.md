@@ -35,7 +35,7 @@ If still lost but curious, join #ouspg @ IRCnet.
   * clojure - Aki Helin (@aoh) of [Solita](https://www.solita.fi)
   * idiokit - Ville Kalliokoski and Timo Mattila of [Synopsys](https://www.codenomicon.com) AbuseSA team
   * python requests - Jani Kenttälä of OUSPG
- 
+
  * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) follows up with hands-on training on easy libfuzzer testing.
    * [Preview of what is coming up](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/stub_writing.md#1)
  * Jani Tuovila (@replicant2020) from Bittium and Antero Metso drop in as well, unfortunately without their laptops this time.
@@ -178,3 +178,15 @@ Vectorama CTF "open" for the pros (working in the trade, [Kapsi Ry](https://www.
  * Engaged Ossi Herrala (@oherrala) (Synopsys) on his upcoming B.Sc. Thesis on the [Secure Deployment in Challenging Environments](https://github.com/ouspg/secudep/)
  * Opened ouspg-open github repository to share the plans
  * Opened Slack for the OUSPG and Affiliates, get your invite from OUSPG team
+
+## Videos
+
+Short videos of happenings during OUSPG Open on summer 2016.
+
+ * [Finnish Cyber Security Scene](https://www.youtube.com/watch?v=Xd6qjCLHDbQ)
+ * [Open session 2016-06-07 - we need a bigger room!](https://www.youtube.com/watch?v=XBs6Q_rcgoc)
+ * [OUSPG Open - TryTLS and Libfuzzerfication teams kick off @ Tellus](https://www.youtube.com/watch?v=YYGVykWtk2s)
+ * [Aapo as a case study for audit ponderings](https://www.youtube.com/watch?v=RwTHZqhxExU)
+ * [OUSPG Open - Fuzzing Workshop at Tellus Ice Breaker Stage](https://www.youtube.com/watch?v=UrhRUKgeDQI)
+ * [OUSPG Open - Frost Club Presentations](https://www.youtube.com/watch?v=gK_wQ4pXoqI)
+ * [How to make money with computers?](https://www.youtube.com/watch?v=xucgT9BBzIE)
