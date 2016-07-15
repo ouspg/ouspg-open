@@ -38,11 +38,13 @@ If still lost but curious, join #ouspg @ IRCnet.
   * python requests - Jani Kenttälä of OUSPG
   * bash-openssl-sclient - Aleksi Klasila (@) of OUSPG TryTLS team
   * rust-rustls - Ossi Herrala of [Synopsys](https://www.codenomicon.com)
+  * we learned that a stub can be (barely) written by someone outside the TryTLS team in 2.5 hours :)
  * [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) follows up with hands-on training on easy libfuzzer testing.
    * [Howto write libfuzzerfication stubs](http://remarkjs.com/remarkise?url=https://github.com/ouspg/libfuzzerfication/blob/master/doc/stub_writing.md#1) by Mikko Yliniemi (@mikessu)
    * `mysamplelib` - a demonstration stub against simple artificial target by Marko Laakso (@ikisusi)
- * Jani Tuovila (@replicant2020) from Bittium drops in as well, unfortunately without lapstop this time.
- * There was a Sauna excursion from 18:00 to 20:00 @ [Oulun Sauna](http://www.oulunsauna.fi). The Sauna was excellent, a swim in the river relaxing, our company was enjoyable and weather was smiling at us. :)
+   * we learned that a stub takes a bit over 2.5 hours to write if the target's build is not already familiar
+ * Jani Tuovila (@replicant2020) from Bittium and Antero Metso dropped in as well, unfortunately without their laptops this time.
+ * There was a Sauna excursion from 18:00 to 20:00 @ [Oulun Sauna](http://www.oulunsauna.fi). The Sauna was excellent, a swim in the river was relaxing, our company was enjoyable and weather was smiling at us. :)
 
 ### Tue 2016-07-05 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
