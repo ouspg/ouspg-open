@@ -2,7 +2,7 @@
 
 
 TL;DR OUSPG Open goes Helsinki. Muisteloidaan nopeasti
-OUSPG 20 vuoden tarina, katsotaan mitä olemme oppineet OUSPG Open kesäpöhinöistä ja valoitetaan vähän mitä uutta Oulusta on odotettivissa tulevaisuudessa.
+OUSPG 20 vuoden tarina, katsotaan mitä olemme oppineet OUSPG Open kesäpöhinöistä ja valoitetaan vähän mitä uutta Oulusta on odotettavissa tulevaisuudessa.
 
 Perjantaina 5.8 klo 12:00 Yrjönkatu 11, Helsinki. Tervetuloa!
 
