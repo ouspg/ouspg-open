@@ -43,7 +43,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
  * Strangely attracted to the *Frost Club* at the the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
  * [TryTLS](https://github.com/ouspg/trytls/) team starts with hands-on training to easily test whether *your* favourite library checks certificates properly. TryTLS stubs were started:
-  * [How to write TryTLS Stubs training](https://youtu.be/pfCvRmYRd3c) given by Mauri Miettinen (@vaulthunter)
+  * [How to write TryTLS Stubs training](https://youtu.be/85EO61l2Oa4) given by Mauri Miettinen (@vaulthunter)
   * `stubs/php-file-get-contents` - Marko Laakso (@ikisusi) & Kasper Kyllönen (@nkapu)
   * Coogle Cloud Platform App Engine URL Fetch Service - Christian Wieser (@chwieser) of OUSPG
   * clojure-http-kit - Aki Helin (@aoh) of [Solita](https://www.solita.fi)
