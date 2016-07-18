@@ -17,12 +17,10 @@ Muutama OUSPEEKEE alumni päätti vähä pistää hommia tolokummaks.
 Ekana synty semmone OUSPEEKEE Ouppeni. Samalla tultiin täyttäneeks kakskytä. Tulevaisuuvelle on kovat suunitelemat.
 
 On ollu sen verta jännää, että aateltiin, että isolla kirkolla pitäs käyvä
-kertomassa kuulumiset. Kysyttiin Sypsyykseltä tilat Yrjönkavulta ja ne anto,
-kuha Kortin Heikki otetaan mukkaan. Se onki joviaali jantteri, nii sanottiin
-että kaupat tuli.
+kertomassa kuulumiset. Kysyttiin Sypsyykseltä tilat Yrjönkavulta ja ne anto.
 
 Toiveena ois että Suomen kyperturvallisuudesta vastuuta kantavat vieraat
-kertosivat kans kuulumisensa. Saatamma sitte siitä kirkolle lähtijä, että jos
+kertosivat kans kuulumisesa. Saatamma sitte siitä kirkolle lähtijä, että jos
 iltavappaata löytyy niin mukkaa vaa.
 
 Mitä:
@@ -37,4 +35,4 @@ Missä:
  * Synopsysken Government Showroom, Yrjönkatu 11, Helsinki
 
 Milloin:
- * Perjantaina 5.8 klo 12:00. Poistuminen oman mielenkiinnon mukaan. :) 
+ * Perjantaina 5.8 klo 12:00. Kesän kunniaksi poistuminen omaan tahtiin. 
