@@ -28,7 +28,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-07-19 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
-* Etherpad-based thesis reviews at [Nest](http://www.oulu.fi/tellusarena/tellus-spaces), enjoying the Fatboys. Naturally, you can also participate virtually via the Etherpad. We will have a 15 minutes debrief break after each one hour sprint.
+* Etherpad-based thesis reviews at [Nest](http://www.oulu.fi/tellusarena/tellus-spaces), enjoying the Fatboys. This is a quiet zone, with sun shining through the windows in the ceiling, so read and cheers quietly and comment in Etherpad, Slack or IRC. Naturally, you can also participate virtually. We will have a 15 minutes debrief break after each one hour sprint.
 
  * (12:00 - 13:00) [Aleksi Klasila's trytls](https://github.com/ouspg/trytls/tree/Klasila_Aleksi_Bach_Thesis/doc/Klasila_Aleksi_Bach_Thesis) - [etherpad](http://muistio.tieke.fi/p/trytls)
 
