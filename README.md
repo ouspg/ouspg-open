@@ -28,16 +28,14 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-07-19 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
-* Etherpad-based thesis reviews at [Nest](http://www.oulu.fi/tellusarena/tellus-spaces), enjoying the Fatboys. This is a quiet zone, with sun shining through the windows in the ceiling, so read and cheers quietly and comment in Etherpad, Slack or IRC. Naturally, you can also participate virtually. We will have a 15 minutes debrief break after each one hour sprint.
+ * This time was a Etherpad-based thesis reviews at the [Nest](http://www.oulu.fi/tellusarena/tellus-spaces), enjoying the Fatboys. This is a quiet zone, with sun shining through the windows in the ceiling, so reading and cheering was quiet and commenting took place in Etherpad, Slack or IRC. Naturally, you were also able to participate virtually. We had a 15 minutes debrief break after each sprint.
+ 
+  * (12:00 - 13:00) Review of [Aleksi Klasila's trytls](https://github.com/ouspg/trytls/tree/Klasila_Aleksi_Bach_Thesis/doc/Klasila_Aleksi_Bach_Thesis) B.Sc. thesis draft on [etherpad](http://muistio.tieke.fi/p/trytls), see [persistent notes](https://github.com/ouspg/trytls/blob/master/doc/thesis-review-aleksi-20160719.md) [8 reviewers]
+  * (13:15 - 14:15) Review of [Ossi Herrala's secudep](https://github.com/ouspg/secudep/blob/master/thesis/thesis.pdf) B.Sc. thesis draft on [etherpad](http://muistio.tieke.fi/p/secudep), see [persistent notes](https://github.com/ouspg/secudep/blob/master/doc/thesis-review-ossi-20160719.md) [11 reviewers]
+  * (14:30 - 15:15) Review of [Ilkka Sovanto's pahuus](https://github.com/ouspg/pahuus/blob/master/latex/thesis.pdf) M.Sc. thesis draft on [etherpad](http://muistio.tieke.fi/p/pahuus), see [persistent notes](https://github.com/ouspg/pahuus/blob/master/doc/thesis-review-ilkka-20160719.md) [11 reviewers]
+  * (15:30 - 16:30) Review of [Pekka Tetri's secmalady](https://github.com/ouspg/secmalady/blob/master/researchplan) Ph.D. research plan on [etherpad](http://muistio.tieke.fi/p/secmalady), see [persistent notes](https://github.com/ouspg/secmalady/blob/master/doc/thesis-review-pekka-20160719.md) [8 reviewers]
 
- * (12:00 - 13:00) [Aleksi Klasila's trytls](https://github.com/ouspg/trytls/tree/Klasila_Aleksi_Bach_Thesis/doc/Klasila_Aleksi_Bach_Thesis) - [etherpad](http://muistio.tieke.fi/p/trytls) [persistent notes](https://github.com/ouspg/trytls/blob/master/doc/thesis-review-aleksi-20160719.md) [8 reviewers]
-
- * (13:15 - 14:15) [Ossi Herrala's secudep](https://github.com/ouspg/secudep/blob/master/thesis/thesis.pdf) - [etherpad](http://muistio.tieke.fi/p/secudep) [persistent notes](https://github.com/ouspg/secudep/blob/master/doc/thesis-review-ossi-20160719.md) [11 reviewers]
-
- * (14:30 - 15:30) [Ilkka Sovanto's pahuus](https://github.com/ouspg/pahuus/blob/master/latex/thesis.pdf) - [etherpad](http://muistio.tieke.fi/p/pahuus)
-
- * (15:45 - 16:45) [Pekka Tetri's secmalady](https://github.com/ouspg/secmalady/blob/master/researchplan) - [etherpad](http://muistio.tieke.fi/p/secmalady)
-
+ * Thank you to all reviewers, local and remote!
 
 ### Tue 2016-07-12 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
