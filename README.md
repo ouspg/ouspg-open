@@ -26,6 +26,15 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
+### Tue 2016-07-26 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
+
+[WIP]
+
+ * A really casual, free-for-all hangout in the comfy office of OUSPG
+
+  * The two teams will give a little progress update on their work (TryTLS and LibFuzzerification if you haven't seen the previous episodes)
+  * Free discussion on topic "Repo And You: How To Manage Your Life In 9000 Easy Steps"
+
 ### Tue 2016-07-19 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * This time was a Etherpad-based thesis reviews at the [Nest](http://www.oulu.fi/tellusarena/tellus-spaces), enjoying the Fatboys. This is a quiet zone, with sun shining through the windows in the ceiling, so reading and cheering was quiet and commenting took place in Etherpad, Slack or IRC. Naturally, you were also able to participate virtually. We had a 15 minutes debrief break after each sprint.
