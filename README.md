@@ -28,8 +28,6 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-07-26 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
 
-[WIP]
-
  * A really casual, free-for-all hangout in the comfy office of OUSPG
 
   * The two teams will give a little progress update on their work (TryTLS and LibFuzzerification if you haven't seen the previous episodes)
@@ -38,7 +36,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 ### Tue 2016-07-19 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
  * This time was a Etherpad-based thesis reviews at the [Nest](http://www.oulu.fi/tellusarena/tellus-spaces), enjoying the Fatboys. This is a quiet zone, with sun shining through the windows in the ceiling, so reading and cheering was quiet and commenting took place in Etherpad, Slack or IRC. Naturally, you were also able to participate virtually. We had a 15 minutes debrief break after each sprint.
- 
+
   * (12:00 - 13:00) Review of [Aleksi Klasila's trytls](https://github.com/ouspg/trytls/tree/Klasila_Aleksi_Bach_Thesis/doc/Klasila_Aleksi_Bach_Thesis) B.Sc. thesis draft on [etherpad](http://muistio.tieke.fi/p/trytls), see [persistent notes](https://github.com/ouspg/trytls/blob/master/doc/thesis-review-aleksi-20160719.md) [8 reviewers]
   * (13:15 - 14:15) Review of [Ossi Herrala's secudep](https://github.com/ouspg/secudep/blob/master/thesis/thesis.pdf) B.Sc. thesis draft on [etherpad](http://muistio.tieke.fi/p/secudep), see [persistent notes](https://github.com/ouspg/secudep/blob/master/doc/thesis-review-ossi-20160719.md) [11 reviewers]
   * (14:30 - 15:15) Review of [Ilkka Sovanto's pahuus](https://github.com/ouspg/pahuus/blob/master/latex/thesis.pdf) M.Sc. thesis draft on [etherpad](http://muistio.tieke.fi/p/pahuus), see [persistent notes](https://github.com/ouspg/pahuus/blob/master/doc/thesis-review-ilkka-20160719.md) [11 reviewers]
