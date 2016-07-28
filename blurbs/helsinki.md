@@ -4,7 +4,7 @@
 TL;DR OUSPG Open goes Helsinki. Muisteloidaan nopeasti
 OUSPG 20 vuoden tarina, katsotaan mitä olemme oppineet OUSPG Open kesäpöhinöistä ja valoitetaan vähän mitä uutta Oulusta on odotettavissa tulevaisuudessa.
 
-Perjantaina 5.8 klo 12:00 Yrjönkatu 11, Helsinki. Tervetuloa!
+Perjantaina 5.8 klo 12:00 Yrjönkatu 11 D 22 Codenomicon/Clarified Networks/Synopsys, Helsinki. Tervetuloa!
 
 ----
 
@@ -32,7 +32,7 @@ Mitä:
     * [Honeypot-päivitys](https://github.com/ouspg/honeypots)
 
 Missä:
- * Synopsysken Government Showroom, Yrjönkatu 11, Helsinki
+ * Synopsysken Government Showroom, Yrjönkatu 11 D 22 Codenomicon/Clarified Networks/Synopsys, Helsinki
 
 Milloin:
  * Perjantaina 5.8 klo 12:00. Kesän kunniaksi poistuminen omaan tahtiin. 
