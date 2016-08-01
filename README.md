@@ -36,7 +36,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
-### Tue 2016-08-03 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
+### Tue 2016-08-02 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
 
 * For this play our stages will be the *Square - Teamwork Area* and the
   *Frost Club* at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
