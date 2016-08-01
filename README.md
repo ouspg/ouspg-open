@@ -30,8 +30,9 @@ If still lost but curious, join #ouspg @ IRCnet.
 
  * A really casual, free-for-all hangout in the comfy office of OUSPG
 
-  * The two teams will give a little progress update on their work (TryTLS and LibFuzzerification if you haven't seen the previous episodes)
-  * Free discussion on topic "Repo And You: How To Manage Your Life In 9000 Easy Steps"
+  * ~~The two teams will give a little progress update on their work (TryTLS and LibFuzzerification if you haven't seen the previous episodes)~~
+  * ~~Free discussion on topic "Repo And You: How To Manage Your Life In 9000 Easy Steps"~~  
+ [But Nobody Came](https://www.youtube.com/watch?v=CzM2oWtTAws)
 
 ### Tue 2016-07-19 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
