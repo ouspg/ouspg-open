@@ -14,6 +14,7 @@
 * [Fitsec](https://www.fitsec.com),
 * [XenSense](https://www.xensense.com),
 * [F-Secure/nSense](https://www.f-secure.com/)
+* [TeliaSonera](http://www.teliacompany.com/)
 * [PV](https://www.mil.fi/),
 * [SM](https://intermin.fi),
 * [VM](https://vm.fi/),
@@ -39,7 +40,9 @@
 
 * [Bug bounty before it was a thing](bugbounty.png)
 * PROTOS SNMP ([Related table](thetable.png))
-* atte's / aki's work
+* [Modern bounties](modern-bounties.png)
+  * [Atte's work](http://image.slidesharecdn.com/attekettunen44con-attekett-slides-updated-131218130729-phpapp01/95/44con-2013-browser-bug-hunting-memoirs-of-a-last-man-standing-atte-kettunen-2-638.jpg?cb=1387372216)
+  * [Aki's work](security-hall-of-fame.png)
 
 ## OUSPG Open - take OUSPG out of the box
 
