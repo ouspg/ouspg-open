@@ -1,6 +1,30 @@
 # OUSPG 20Y - Kiitos
 
-* Orgs
+* [University of Oulu](https//www.oulu.fi/yliopisto/)
+* [CERT-FI/NCSC-FI](https://www.viestintavirasto.fi/en/cybersecurity.html)
+* [Tekes](https://www.tekes.fi/),
+* [Nokia](https://www.nokia.com/),
+* [OPOY](https://www.dna.fi/),
+* [Microsoft](https://www.microsoft.com/),
+* [Google](https://www.google.com/),
+* [Sun Microsystems](https://www.oracle.com/sun),
+* [Codenomicon](http://www.codenomicon.com),
+* [Clarified Networks](https://www.clarifiednetworks.com),
+* [Synopsys](http://www.synopsys.com/home.aspx),
+* [Fitsec](https://www.fitsec.com),
+* [XenSense](https://www.xensense.com),
+* [F-Secure/nSense](https://www.f-secure.com/)
+* [PV](https://www.mil.fi/),
+* [SM](https://intermin.fi),
+* [VM](https://vm.fi/),
+* [HVK](http://www.nesa.fi/),
+* [VTT](http://www.vtt.fi),
+* [Purdue University](https://www.cs.purdue.edu/),
+* [Carnegie Mellon University / SEI](https://www.sei.cmu.edu/),
+* [AusCERT](https://www.auscert.org.au/)
+* [JPCERT](https://www.jpcert.or.jp/english/)
+* [NISCC/CPNI](http://www.cpni.gov.uk/)
+* Netscape/Mozilla
 * Names
 * Hall of thanks. ToDo: jviide scoreboard.
 
@@ -13,7 +37,9 @@
 
 ## Events Timeline
 
-* protos snmp, atte's / aki's work
+* [Bug bounty before it was a thing](bugbounty.png)
+* PROTOS SNMP ([Related table](thetable.png))
+* atte's / aki's work
 
 ## OUSPG Open - take OUSPG out of the box
 
