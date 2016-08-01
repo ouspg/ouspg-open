@@ -36,6 +36,37 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
+### Tue 2016-08-03 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
+
+* For this play our stages will be the *Square - Teamwork Area* and the
+  *Frost Club* at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
+* Act I (12:00 - 15:00): Critical reading about Engineering, Productization,
+  Popularization and Social Enterprises
+  * All participants
+    1. pick an article to read from below or add one of your own choice
+    1. summarize it (verbally) to the others
+    1. reflect the message against whatever you are working on
+    1. praise or criticize
+  * Marko's suggestions:
+    * [The Tao of HashiCorp](https://hashicorp.com/blog/tao-of-hashicorp.html)
+    * [Why I Strive to be a 0.1x Engineer](http://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/)
+    * [Hyvän tuotteistuksen 7 tunnusta](http://www.pollitasta.fi/2009/02/hyvan-tuotteistuksen-7-tunnusta/)
+    * [How to Prototype a Game in Under 7 Days](http://www.gamasutra.com/view/feature/2438/how_to_prototype_a_game_in_under_7_.php)
+    * [When the solution is the problem](https://medium.com/@akarve/when-the-solution-is-the-problem-50adb9f6caf9#.tj42lx3er)
+    * [Don’t do what your users say …](http://web.archive.org/web/20081231053408/http://blog.hanfordlemoore.com/2007/04/16/dont-do-what-your-users-say)
+    * [The Lean Startup: Innovation Through Experimentation](http://www.youtube.com/watch?v=i65PaoTlVKg&feature=autofb)
+    * [3 strategies to achieve web start-up success](http://venturebeat.com/2011/03/31/3-strategies-to-achieve-web-start-up-success/)
+  * Jani's suggestions - TBD
+  * Jukke's suggestions - TBD
+  * Ossi's suggestions - TBD
+* Act II (15:00 - 17:00): Productization & Popularization news & plans
+  * Kasper Kyllönen (@nkapu) - [URL handlers](https://github.com/ouspg/urlhandlers/)
+  * Mauri Miettinen (@vaulthunter) - [TryTLS](https://github.com/ouspg/trytls/)
+  * Mikko Yliniemi (@mikessu) - [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/)
+  * Pauli Huttunen (@WhiteEyeDoll) - [SampleCloud](https://github.com/ouspg/samplecloud/)
+* For rest of the summer **the world will be our stage**!
+  * Next we take Helsinki, then we will take them all! :)
+
 ### Tue 2016-07-26 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
 
 * A really casual, free-for-all hangout in the comfy office of OUSPG
@@ -119,7 +150,7 @@ If still lost but curious, join #ouspg @ IRCnet.
     [libfuzzerfication](https://github.com/ouspg/libfuzzerfication/) progress
   * Mauri Miettinen (@vaulthunter) updates us on the [TryTLS](https://github.com/ouspg/trytls/)
   * Kasper Kyllönen (@nkapu) kickstarts the
-    [URL handlers](https://github.com/nkapu/handlers/) in the OUSPG context
+    [URL handlers](https://github.com/ouspg/urlhandlers/) in the OUSPG context
 * Hands on hacking and planning on followed at the
   *Square - Teamwork Area* (14:00 - 17:00)
 * Mikko Hiltunen (Oulu Vocational College) and Christian Wieser (OUSPG) drop in
