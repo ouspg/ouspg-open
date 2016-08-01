@@ -2,6 +2,7 @@
 
 * Orgs
 * Names
+* Hall of thanks. ToDo: jviide scoreboard.
 
 ## 20Y in numbers
 
@@ -35,11 +36,11 @@
 * Start: Talk to people and make cunning plans
   * [Make money with computers](https://www.youtube.com/watch?v=xucgT9BBzIE)
   * [Contribute and Earn](https://www.youtube.com/watch?v=ThK2q9f8U5E)
-  * [Be next](https://youtu.be/RScnahkajKw?list=PL1fscFAejNoDGRgJVMrv_jzWny1T1SaDP)
+  * [Be next](https://youtu.be/RScnahkajKw?list=PL1fscFAejNoDGRgJVMrv_jzWny1T1SaDP)
   * [Vectorama](https://youtu.be/W3yh01klbLA)
   * [May Open Sessions](https://www.youtube.com/watch?v=XBs6Q_rcgoc)
 
-* Next: Fresh blood team up for social enterprise / experinment
+* Next: Fresh blood teams up for social enterprise / experiment
   * [TryTLS vs LibFuzzerfication](https://www.youtube.com/watch?v=YYGVykWtk2s)
   * Also [Honeypots](https://github.com/ouspg/honeypots) and [urlhandlers](https://github.com/ouspg/urlhandlers)
     * [friendly competition](cowrie-docker.png)
@@ -47,6 +48,8 @@
   * [Dev-collaboration](dev-collab.png)
   * [Slack](slack-coaching.png)
   * [CircleCI](circl.png)
+  * [Debates](http://slides.com/evilon/debates#/)
 * Progress:
   * TODO: cut these to be short [TryTLS training](https://www.youtube.com/watch?v=85EO61l2Oa4) and
  [LibFuzzerfication](https://www.youtube.com/watch?v=B46AMry7lHs)
+* Now: the real challenge - popularization
