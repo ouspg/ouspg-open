@@ -25,6 +25,7 @@
 * [AusCERT](https://www.auscert.org.au/)
 * [JPCERT](https://www.jpcert.or.jp/english/)
 * [NISCC/CPNI](http://www.cpni.gov.uk/)
+* [Ericsson](https://www.ericsson.com/)
 * Netscape/Mozilla
 * Names
 * Hall of thanks. ToDo: jviide scoreboard.
