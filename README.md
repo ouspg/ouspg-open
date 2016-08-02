@@ -58,7 +58,12 @@ If still lost but curious, join #ouspg @ IRCnet.
     * [3 strategies to achieve web start-up success](http://venturebeat.com/2011/03/31/3-strategies-to-achieve-web-start-up-success/)
   * Jani's suggestions - TBD
   * Jukke's suggestions - TBD
-  * Ossi's suggestions - TBD
+  * Ossi's suggestions:
+    * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
+    * [Do things that don't scale](http://www.paulgraham.com/ds.html)
+    * [Doing continuous delivery? Focus first on reducing release cycle times](http://techbeacon.com/doing-continuous-delivery-focus-first-reducing-release-cycle-times)
+      * Example of testing: [How SQLite Is Tested](https://www.sqlite.org/testing.html)
+    * [The Falling and the Rising Rain](http://thecodelesscode.com/case/233)
 * Act II (15:00 - 17:00): Productization & Popularization news & plans
   * Kasper Kyllönen (@nkapu) - [URL handlers](https://github.com/ouspg/urlhandlers/)
   * Mauri Miettinen (@vaulthunter) - [TryTLS](https://github.com/ouspg/trytls/)
