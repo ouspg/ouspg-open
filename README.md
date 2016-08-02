@@ -76,11 +76,12 @@ If still lost but curious, join #ouspg @ IRCnet.
   * Pauli Huttunen (@WhiteEyeDoll) - [SampleCloud](https://github.com/ouspg/samplecloud/)
 * For rest of the summer **the world will be our stage**!
   * Next we take Helsinki, then we will take them all! :)
-  * 
 
 #### The Joel Test: 12 Steps to Better Code
 
 [12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
+
+<!-- markdownlint-disable MD013 -->
 
 |                                                    | trytls | libfuzzerfication | urlhandlers | honeypots | samplecloud |
 | -------------------------------------------------- | ------ | ----------------- | ----------- | --------- | ----------- |
@@ -97,6 +98,8 @@ If still lost but curious, join #ouspg @ IRCnet.
 | Do new candidates write code during their interview? |        |                   |             |           |            |
 | Do you do hallway usability testing?               | 1      | 1                 | 1           | 1         | 1           |
 | Total score                                        | 10     | 8                 | 9           | 10        | 6           |
+
+<!-- markdownlint-enable MD013 -->
 
 ### Tue 2016-07-26 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
 
