@@ -38,16 +38,17 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-08-02 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
-* For this play our stages will be the *Square - Teamwork Area* and the
+* For this play our stages were the *Square - Teamwork Area* and the
   *Frost Club* at the [Tellus Innovation Arena](http://www.oulu.fi/tellusarena/).
 * Act I (12:00 - 15:00): Critical reading about Engineering, Productization,
   Popularization and Social Enterprises
   * All participants
-    1. use http://muistio.tieke.fi/p/ouspg-reads
-    1. pick an article to read from below or add one of your own choice
-    1. summarize it (verbally) to the others
-    1. reflect the message against whatever you are working on
-    1. praise or criticize
+    1. used the etherpad at <http://muistio.tieke.fi/p/ouspg-reads> for
+      reservations & notes - see also the [persistent notes](doc/reading-20160802.md)
+    1. picked an article to read from below or added one of your own choice
+    1. summarized it (at least verbally) to the others
+    1. reflected the message against whatever they were working on
+    1. praised or criticized
   * Marko's suggestions:
     * [The Tao of HashiCorp](https://hashicorp.com/blog/tao-of-hashicorp.html)
     * [Why I Strive to be a 0.1x Engineer](http://benjiweber.co.uk/blog/2016/01/25/why-i-strive-to-be-a-0-1x-engineer/)
@@ -60,7 +61,8 @@ If still lost but curious, join #ouspg @ IRCnet.
   * Jani's suggestions
     * [Guy Kawasaki: The Top 10 Mistakes of Entrepreneurs](https://youtu.be/HHjgK6p4nrw?t=3m16s)
     * [Steve Jobs Solved the Innovators Dilemma](https://hbr.org/2011/10/steve-jobs-solved-the-innovato/)
-  * Jukke's suggestions - TBD
+  * Jukke's suggestions
+    * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
   * Ossi's suggestions:
     * [The Joel Test: 12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
     * [Do things that don't scale](http://www.paulgraham.com/ds.html)
