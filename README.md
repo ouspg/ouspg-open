@@ -58,6 +58,7 @@ If still lost but curious, join #ouspg @ IRCnet.
     * [3 strategies to achieve web start-up success](http://venturebeat.com/2011/03/31/3-strategies-to-achieve-web-start-up-success/)
   * Jani's suggestions
     * [Guy Kawasaki: The Top 10 Mistakes of Entrepreneurs](https://youtu.be/HHjgK6p4nrw?t=3m16s)
+    * [Steve Jobs Solved the Innovators Dilemma](https://hbr.org/2011/10/steve-jobs-solved-the-innovato/)
   * Jukke's suggestions - TBD
   * Ossi's suggestions - TBD
 * Act II (15:00 - 17:00): Productization & Popularization news & plans
