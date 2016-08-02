@@ -43,6 +43,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 * Act I (12:00 - 15:00): Critical reading about Engineering, Productization,
   Popularization and Social Enterprises
   * All participants
+    1. use http://muistio.tieke.fi/p/ouspg-reads
     1. pick an article to read from below or add one of your own choice
     1. summarize it (verbally) to the others
     1. reflect the message against whatever you are working on
