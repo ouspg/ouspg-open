@@ -76,6 +76,27 @@ If still lost but curious, join #ouspg @ IRCnet.
   * Pauli Huttunen (@WhiteEyeDoll) - [SampleCloud](https://github.com/ouspg/samplecloud/)
 * For rest of the summer **the world will be our stage**!
   * Next we take Helsinki, then we will take them all! :)
+  * 
+
+#### The Joel Test: 12 Steps to Better Code
+
+[12 Steps to Better Code](http://www.joelonsoftware.com/articles/fog0000000043.html)
+
+|                                                    | trytls | libfuzzerfication | urlhandlers | honeypots | samplecloud |
+| -------------------------------------------------- | ------ | ----------------- | ----------- | --------- | ----------- |
+| Do you use source control?                         | 1      | 1                 | 1           | 1         | 1           |
+| Can you make a build in one step?                  | 1      |                   |             | 1         |             |
+| Do you make daily builds (or CI)?                  | 1      |                   | 1           | 1         |             |
+| Do you have a bug database?                        | 1      | 1                 | 1           | 1         | 1           |
+| Do you fix bugs before writing new code?           |        |                   |             |           |             |
+| Do you have an up-to-date schedule?                | 1      | 1                 | 1           | 1         | 1           |
+| Do you have a spec?                                | 1      | 1                 | 1           | 1         | 1           |
+| Do programmers have quiet working conditions?      | 1      | 1                 | 1           | 1         | 1           |
+| Do you use the best tools money can buy?           | 1      | 1                 | 1           | 1         | 1           |
+| Do you have testers?                               | 1      | 1                 | 1           | 1         | 1           |
+| Do new candidates write code during their interview? |        |                   |             |           |            |
+| Do you do hallway usability testing?               | 1      | 1                 | 1           | 1         | 1           |
+| Total score                                        | 10     | 8                 | 9           | 10        | 6           |
 
 ### Tue 2016-07-26 @ Room TS387, Linnanmaa Campus, Tietotalo 3rd floor (12:00-17:00)
 
