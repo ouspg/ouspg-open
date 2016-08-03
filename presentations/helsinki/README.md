@@ -37,6 +37,20 @@
 
 ## OUSPG Timeline
 
+* 1996 - OUSPG was born
+* 1998 - First [buzz on the bug](http://sunsite.uakom.sk/sunworldonline/swol-08-1998/swol-08-emailbug.html) - Issues on Outlook Express and Netscape Communicator on various platforms
+* 1999 - PROTOS Research starts - the era of systematic black box testing begins
+* 2002 - PROTOS-spinoff [Codenomicon Oy](http://www.codenomicon.com/) is founded
+* 2002 - [PROTOS SNMPv1](https://www.ee.oulu.fi/research/ouspg/PROTOS_Test-Suite_c06-snmpv1) test material reveals issues in [hundreds of products](http://www.cert.org/historical/advisories/CA-2002-03.cfm#vendors)
+* 2004 - [PROTOS Protocol Genome project](https://www.ee.oulu.fi/research/ouspg/genome/) taking the testing from another planet to another universe
+* 2006 - FRONTIER-spinoff [Clarified Networks Oy](https://www.clarifiednetworks.com/) is founded
+* 2006 - Clarified Networks crew wins [VMware ultimate virtual challenge](http://www.vmware.com/mena/company/news/releases/uvac_winners) ($100 000)
+* 2007 - Genome project starts to yield [tons of results](https://github.com/aoh/radamsa#some-known-results)
+* 2011 - [Aki Helin](https://github.com/aoh) and [Atte Kettunen](https://youtu.be/RScnahkajKw) collect [tons of bug bounties](https://www.chromium.org/Home/chromium-security/hall-of-fame) over the following years. Billions of online users secured.
+* 2015 - Codenomicon finds the [Heartbleed Bug](http://heartbleed.com/) from OpenSSL
+  * affected about 2/3 of the WWW-servers on the Internet
+  * also SSL-VPNs, network appliances and wide variety of client-side software
+
 ## Events Timeline
 
 * [Bug bounty before it was a thing](bugbounty.png)
@@ -44,6 +58,8 @@
 * [Modern bounties](modern-bounties.png)
   * [Atte's work](http://image.slidesharecdn.com/attekettunen44con-attekett-slides-updated-131218130729-phpapp01/95/44con-2013-browser-bug-hunting-memoirs-of-a-last-man-standing-atte-kettunen-2-638.jpg?cb=1387372216)
   * [Aki's work](security-hall-of-fame.png)
+
+## Careers
 
 ## OUSPG Open - take OUSPG out of the box
 
