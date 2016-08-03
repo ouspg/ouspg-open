@@ -36,9 +36,9 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
-### Fri 2016-08-05 @ Perjantaina 5.8 klo 12:00 Yrjönkatu 11 D 22 (12:00-17:00)
+### Fri 2016-08-05 @ Yrjönkatu 11 D 22 (12:00-17:00)
 
-In this Friday Helsinki -special we will have few presentations first and then move towards cunning plans & techincal things towards the evening. Bring your own laptops. 
+In this Friday Helsinki -special we will have few presentations first and then move towards cunning plans & techincal things towards the evening. Bring your own laptops. See also [Helsinki-blurp](blurps/helsinki.md)
 
  * Greetings 
  * OUSPG - past, present and the future (KIITOS) 
@@ -46,7 +46,7 @@ In this Friday Helsinki -special we will have few presentations first and then m
    * [URL handlers](https://github.com/ouspg/urlhandlers/) and [HoneyPots](https://github.com/ouspg/honeypots)
    * [TryTLS](https://github.com/ouspg/trytls/) and [Libfuzzerfication](https://github.com/ouspg/libfuzzerfication)
  * Cunning plans / Talks from the participants 
-
+ 
 ### Tue 2016-08-02 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
 * For this play our stages were the *Square - Teamwork Area* and the
