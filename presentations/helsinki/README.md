@@ -22,6 +22,7 @@
 * [VTT](http://www.vtt.fi),
 * [Purdue University](https://www.cs.purdue.edu/),
 * [Carnegie Mellon University / SEI](https://www.sei.cmu.edu/),
+* [CERT/CC](https://cert.org)
 * [AusCERT](https://www.auscert.org.au/)
 * [JPCERT](https://www.jpcert.or.jp/english/)
 * [NISCC/CPNI](http://www.cpni.gov.uk/)
