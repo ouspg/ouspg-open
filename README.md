@@ -38,7 +38,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Fri 2016-08-05 @ Yrjönkatu 11 D 22 (12:00-17:00)
 
-In this Friday Helsinki -special we will have few presentations first and then move towards cunning plans & techincal things towards the evening. Bring your own laptops. See also [Helsinki-blurp](blurps/helsinki.md)
+In this Friday Helsinki -special we will have few presentations first and then move towards cunning plans & techincal things towards the evening. Bring your own laptops. See also [Helsinki-blurb](blurbs/helsinki.md)
 
  * Greetings 
  * OUSPG - past, present and the future (KIITOS) 
