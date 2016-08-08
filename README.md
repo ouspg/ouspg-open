@@ -38,16 +38,31 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Fri 2016-08-05 @ Yrjönkatu 11 D 22 (12:00-17:00)
 
-In this Friday Helsinki -special we will have few presentations first
-and then move towards cunning plans & techincal things towards the evening.
-Bring your own laptops. See also [Helsinki-blurb](blurbs/helsinki.md)
+In this Friday Helsinki -special we had a respectable set of
+people who have influenced OUSPG and the Cyber security in Finland.
 
-* Greetings
-* OUSPG - past, present and the future (KIITOS)
-* Drilling down to the present:
-  * [URL handlers](https://github.com/ouspg/urlhandlers/) and [HoneyPots](https://github.com/ouspg/honeypots)
-  * [TryTLS](https://github.com/ouspg/trytls/) and [Libfuzzerfication](https://github.com/ouspg/libfuzzerfication)
-* Cunning plans / Talks from the participants
+* Jani Kenttälä (@evilon) led a workshop about OUSPG & Oulu - past, present
+  and the future.
+  * [URL handlers](https://github.com/ouspg/urlhandlers/), [HoneyPots](https://github.com/ouspg/honeypots)
+  [TryTLS](https://github.com/ouspg/trytls/), and [Libfuzzerfication](https://github.com/ouspg/libfuzzerfication)
+  were also introdocued.
+* [Jarkko Saarimäki](https://www.viestintavirasto.fi/viestintavirasto/ajankohtaista/2016/jarkkosaarimakikyberturvallisuuskeskuksenjohtajaksi.html) @ NCSC-FI presented NCSC-FI's future plans. Finnish
+ collaborative/networked model is going to get some steroids.
+* Kauto Huopio [@kautoh](https://twitter.com/kautoh) @ NCSC-FI gave an
+  update on NCSC-FI news followup.
+* Kasper Kyllönen (@nkapu) of OUSPG and Juhani Eronen (@execgit) of
+  NCSC-FI/OUSPG gave a rerun of their [URL handlers](https://github.com/ouspg/urlhandlers/)
+  [Assembly presentation](https://www.youtube.com/watch?v=-51nIz8pz08),
+  with a more technical twist.
+* Tomi Tuominen ([@tomituominen](https://twitter.com/tomituominen))
+  of [T2](https://t2.fi/) and [F-Secure](https://www.f-secure.com/) provided a
+  lot of pointers and anecdotes from InfoSec scene developing in Finland, and
+  Internationally.
+* Pekka Ylitalo from Finnish Defence Forces (FDF) gave
+  pointers how FDF have managed infosec/cyber over the course of past 20 years.
+* Erka Koivunen of F-Secure squeezed some time to stop by while
+  handling international press relations.
+* Heikki Kortti of Synopsys reflected how OUSPG's reality-check culture has helped to shape the industry.
 
 ### Tue 2016-08-02 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
