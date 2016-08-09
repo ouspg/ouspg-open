@@ -42,7 +42,9 @@ If still lost but curious, join #ouspg @ IRCnet.
   * TryTLS, SampleCloud, Libfuzzerfication, URLHandlers.
 * 12:00 Open
   * Getting inspired by other popularisation efforts, especially [Kickstarter](https://www.kickstarter.com/)
-  * Practical reachout efforts (what exactly, depends on the morning
+    * [Stygian - A Lovecraftian Computer RPG](https://www.kickstarter.com/projects/1698219403/stygian-a-lovecraftian-computer-rpg/description)
+    * [System Shock](https://www.kickstarter.com/projects/1598858095/system-shock/description)
+  * Practical reach-out efforts (what exactly, depends on the morning
   status update)
 
 ### Fri 2016-08-05 @ Yrjönkatu 11 D 22 (12:00-17:00)
@@ -55,9 +57,11 @@ people who have influenced OUSPG and the cyber security in Finland.
   * [URL handlers](https://github.com/ouspg/urlhandlers/), [HoneyPots](https://github.com/ouspg/honeypots)
   [TryTLS](https://github.com/ouspg/trytls/), and [Libfuzzerfication](https://github.com/ouspg/libfuzzerfication)
   were also introdocued.
+<!-- markdownlint-disable MD013 -->
 * [Jarkko Saarimäki](https://www.viestintavirasto.fi/viestintavirasto/ajankohtaista/2016/jarkkosaarimakikyberturvallisuuskeskuksenjohtajaksi.html) from NCSC-FI
  presented NCSC-FI's future plans. Finnish collaborative/networked model is
  going to get some steroids.
+<!-- markdownlint-enable MD013 -->
 * Kauto Huopio [@kautoh](https://twitter.com/kautoh) from NCSC-FI gave an
   update on NCSC-FI news followup.
 * Kasper Kyllönen (@nkapu) of OUSPG and Juhani Eronen (@execgit) of
