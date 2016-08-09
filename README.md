@@ -57,11 +57,9 @@ people who have influenced OUSPG and the cyber security in Finland.
   * [URL handlers](https://github.com/ouspg/urlhandlers/), [HoneyPots](https://github.com/ouspg/honeypots)
   [TryTLS](https://github.com/ouspg/trytls/), and [Libfuzzerfication](https://github.com/ouspg/libfuzzerfication)
   were also introduced.
-<!-- markdownlint-disable MD013 -->
 * [Jarkko Saarimäki](https://www.viestintavirasto.fi/viestintavirasto/ajankohtaista/2016/jarkkosaarimakikyberturvallisuuskeskuksenjohtajaksi.html) from NCSC-FI
  presented NCSC-FI's future plans. Finnish collaborative/networked model is
  going to get some steroids.
-<!-- markdownlint-enable MD013 -->
 * Kauto Huopio [@kautoh](https://twitter.com/kautoh) from NCSC-FI gave an
   update on NCSC-FI news followup.
 * Kasper Kyllönen (@nkapu) of OUSPG and Juhani Eronen (@execgit) of
