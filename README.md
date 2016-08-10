@@ -38,14 +38,21 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-08-09 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
-* 09:00 Status updates from different teams on popularisation efforts
-  * TryTLS, SampleCloud, Libfuzzerfication, URLHandlers.
-* 12:00 Open
-  * Getting inspired by other popularisation efforts, especially [Kickstarter](https://www.kickstarter.com/)
-    * [Stygian - A Lovecraftian Computer RPG](https://www.kickstarter.com/projects/1698219403/stygian-a-lovecraftian-computer-rpg/description)
-    * [System Shock](https://www.kickstarter.com/projects/1598858095/system-shock/description)
-  * Practical reach-out efforts (what exactly, depends on the morning
-    status update)
+* [TryTLS](https://github.org/ouspg/trytls) and
+  [Libfuzzerfication](https://github.org/ouspg/libfuzzerfication) popularisation
+  plans revisited. Going after more challenging, but more important audience
+  education-wise, e.g. the developers instead of security pros.
+* Recap about what we learned from URL Handler popularsation efforts
+  [URL Handlers](https://github.com/ouspg/urlhandlers/blob/master/doc/whatwelearned.md)
+* Petteri Parhi from OP stopped by and talked about kaenkky.com early
+  popularisation efforts. kaenkky.com was the "restaurant app" of Oulu
+  in early 2000.
+* The great TryTLS shootout - took official Docker images of different Linux
+  distributions and ran TryTLS for as many languages as possible. Results will be
+  at [TryTLS repository](https://github.com/ouspg/trytls/tree/master/shootout)
+* Inspired by other popularisation efforts, especially [Kickstarter](https://www.kickstarter.com/)
+  * [Stygian - A Lovecraftian Computer RPG](https://www.kickstarter.com/projects/1698219403/stygian-a-lovecraftian-computer-rpg/description)
+  * [System Shock](https://www.kickstarter.com/projects/1598858095/system-shock/description)
 
 ### Fri 2016-08-05 @ Yrjönkatu 11 D 22 (12:00-17:00)
 
@@ -94,6 +101,7 @@ people who have influenced OUSPG and the cyber security in Finland.
   * Joachim Viide / OUSPG,
   * Bogdan Mihaila, Lari Huttunen, and Sindri Bjarnasson / Synopsys, and
   * Ari Knuuti / Cyblem.
+
 
 ### Tue 2016-08-02 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
