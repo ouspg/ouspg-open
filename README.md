@@ -36,6 +36,21 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
+### Tue 2016-08-16 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
+
+* It will be busy day. We will have two tracks.
+  * [TryTLS shootout Round II](https://github.com/ouspg/trytls/tree/master/shootout)
+  * [Aapo Audit Round II](https://github.com/ouspg/aapo-audit)
+* TryTLS shootout -sprint starts already at 09:00 with internal QA-work.
+* 09:00 TryTLS shootout-0.3a
+  * find fixable TryTLS issues
+* 10:30 Review and head off to shootout-0.3b
+* 12:00 Aapo Audit Round II, and shootout continues
+  * Aapo Audit is the first totally transparent audit
+  * We will have special guest star Juhani Eronen from NCSC-FI participating
+* 14:30 shootout II Review and head off to shootout-0.3
+* 15:00 Reviewing potential vulnerability coordination cases.
+
 ### Tue 2016-08-09 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
 * [TryTLS](https://github.org/ouspg/trytls) and
@@ -48,7 +63,7 @@ If still lost but curious, join #ouspg @ IRCnet.
   popularisation efforts. kaenkky.com was the "restaurant app" of Oulu
   in early 2000.
 * The great TryTLS shootout - took official Docker images of different Linux
-  distributions and ran TryTLS for as many languages as possible. Results will be
+  distributions and ran TryTLS for as many languages as possible. Results are
   at [TryTLS repository](https://github.com/ouspg/trytls/tree/master/shootout)
 * Inspired by other popularisation efforts, especially [Kickstarter](https://www.kickstarter.com/)
   * [Stygian - A Lovecraftian Computer RPG](https://www.kickstarter.com/projects/1698219403/stygian-a-lovecraftian-computer-rpg/description)
@@ -101,7 +116,6 @@ people who have influenced OUSPG and the cyber security in Finland.
   * Joachim Viide / OUSPG,
   * Bogdan Mihaila, Lari Huttunen, and Sindri Bjarnasson / Synopsys, and
   * Ari Knuuti / Cyblem.
-
 
 ### Tue 2016-08-02 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
