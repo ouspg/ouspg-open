@@ -57,8 +57,9 @@ If still lost but curious, join #ouspg @ IRCnet.
   [Libfuzzerfication](https://github.org/ouspg/libfuzzerfication) popularisation
   plans revisited. Going after more challenging, but more important audience
   education-wise, e.g. the developers instead of security pros.
-* Recap about what we learned from URL Handler popularsation efforts
-  [URL Handlers](https://github.com/ouspg/urlhandlers/blob/master/doc/whatwelearned.md)
+* Recap from [URL Handlers](https://github.com/ouspg/urlhandlers/) crew about
+  [what we learned](https://github.com/ouspg/urlhandlers/blob/master/doc/whatwelearned.md)
+  from [Assembly](http://www.assembly.org/summer16) popularsation efforts
 * Petteri Parhi from OP stopped by and talked about kaenkky.com early
   popularisation efforts. kaenkky.com was the "restaurant app" of Oulu
   in early 2000.
@@ -73,6 +74,8 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 In this Friday Helsinki -special we had a impressive 23 experts consisting of
 people who have influenced OUSPG and the cyber security in Finland.
+
+<!-- markdownlint-disable MD013 -->
 
 * Jani Kenttälä (@evilon) coordinated a workshop about OUSPG & Oulu - past, present
   and the future.
@@ -116,6 +119,8 @@ people who have influenced OUSPG and the cyber security in Finland.
   * Joachim Viide / OUSPG,
   * Bogdan Mihaila, Lari Huttunen, and Sindri Bjarnasson / Synopsys, and
   * Ari Knuuti / Cyblem.
+
+<!-- markdownlint-enable MD013 -->
 
 ### Tue 2016-08-02 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
