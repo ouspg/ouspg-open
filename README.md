@@ -50,7 +50,7 @@ If still lost but curious, join #ouspg @ IRCnet.
   * We will have special guest star Juhani Eronen from NCSC-FI participating
 * 14:30 shootout II Review and head off to shootout-0.3
 * 15:00 Reviewing potential vulnerability coordination cases.
-
+* 18:30 sauna @ [Boogie Software](http://www.boogiesoftware.com/) ([map](https://www.google.fi/maps/place/Boogie+Software+Oy/@65.0217951,25.4841214,15z/data=!4m5!3m4!1s0x0:0xf0129e507f614000!8m2!3d65.0215051!4d25.4978972))
 ### Tue 2016-08-09 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
 * [TryTLS](https://github.org/ouspg/trytls) and
