@@ -45,7 +45,8 @@ If still lost but curious, join #ouspg @ IRCnet.
 * 09:00 TryTLS shootout-0.3alpha
   * found fixable TryTLS issues
 * 10:30 Review and head off to shootout-0.3beta
-* 12:00 Aapo Audit Round II [(etherpad)](http://muistio.tieke.fi/p/aapo-audit), and shootout continues
+* 12:00 Aapo Audit Round II [(etherpad)](http://muistio.tieke.fi/p/aapo-audit),
+  and shootout continues
   * Aapo Audit is the first totally transparent audit
   * We had special guest star Juhani Eronen from NCSC-FI participating
 * 14:30 shootout II Review and head off to shootout-0.3
@@ -55,6 +56,9 @@ If still lost but curious, join #ouspg @ IRCnet.
     (Prove), Thomas Wahlberg (Boogie Software), Marko Haataja (Bittium),
     and freshly graduated Daniel Asked joined for Sauna at beautiful
     Boogie Software premises.
+  * A lovely Sauna, a lovely view
+
+  ![Boogie Sauna](img/ouspg-open-sauna-20160816.jpeg)
 
 ### Tue 2016-08-09 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
