@@ -38,20 +38,20 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-08-16 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
-* It will be busy day. We will have two tracks.
+* It was a busy day. We had two tracks.
   * [TryTLS shootout Round II](https://github.com/ouspg/trytls/tree/master/shootout)
   * [Aapo Audit Round II](https://github.com/ouspg/aapo-audit)
-* TryTLS shootout -sprint starts already at 09:00 with internal QA-work.
-* 09:00 TryTLS shootout-0.3a
-  * find fixable TryTLS issues
-* 10:30 Review and head off to shootout-0.3b
+* TryTLS shootout -sprint started already at 09:00 with internal QA-work.
+* 09:00 TryTLS shootout-0.3alpha
+  * found fixable TryTLS issues
+* 10:30 Review and head off to shootout-0.3beta
 * 12:00 Aapo Audit Round II [(etherpad)](http://muistio.tieke.fi/p/aapo-audit), and shootout continues
   * Aapo Audit is the first totally transparent audit
-  * We will have special guest star Juhani Eronen from NCSC-FI participating
+  * We had special guest star Juhani Eronen from NCSC-FI participating
 * 14:30 shootout II Review and head off to shootout-0.3
 * 15:00 Reviewing potential vulnerability coordination cases.
 * 18:30 sauna @ [Boogie Software](http://www.boogiesoftware.com/) ([map](https://www.google.fi/maps/place/Boogie+Software+Oy/@65.0217951,25.4841214,15z/data=!4m5!3m4!1s0x0:0xf0129e507f614000!8m2!3d65.0215051!4d25.4978972))
-  * Christian Wieser (OUSPG), Attek Kettune (F-Secure), Sampo Niittyviita
+  * Christian Wieser (OUSPG), Attek Kettunen (F-Secure), Sampo Niittyviita
     (Prove), Thomas Wahlberg (Boogie Software), Marko Haataja (Bittium),
     and freshly graduated Daniel Asked joined for Sauna at beautiful
     Boogie Software premises.
