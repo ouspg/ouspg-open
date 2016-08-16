@@ -45,7 +45,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 * 09:00 TryTLS shootout-0.3a
   * find fixable TryTLS issues
 * 10:30 Review and head off to shootout-0.3b
-* 12:00 Aapo Audit Round II, and shootout continues
+* 12:00 Aapo Audit Round II [(etherpad)](http://muistio.tieke.fi/p/aapo-audit), and shootout continues
   * Aapo Audit is the first totally transparent audit
   * We will have special guest star Juhani Eronen from NCSC-FI participating
 * 14:30 shootout II Review and head off to shootout-0.3
