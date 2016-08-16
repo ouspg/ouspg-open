@@ -174,8 +174,8 @@ people who have influenced OUSPG and the cyber security in Finland.
 
 <!-- markdownlint-disable MD013 -->
 
-|                                                    | trytls | libfuzzerfication | urlhandlers | honeypots | samplecloud |
-| -------------------------------------------------- | ------ | ----------------- | ----------- | --------- | ----------- |
+|                                                    | TryTLS | libfuzzerfication | urlhandlers | honeypots | SampleCloud |
+| -------------------------------------------------- | :------: | :-----------------: | :-----------: | :---------: | :-----------: |
 | Do you use source control?                         | 1      | 1                 | 1           | 1         | 1           |
 | Can you make a build in one step?                  | 1      |                   |             | 1         |             |
 | Do you make daily builds (or CI)?                  | 1      |                   | 1           | 1         |             |
@@ -188,7 +188,7 @@ people who have influenced OUSPG and the cyber security in Finland.
 | Do you have testers?                               | 1      | 1                 | 1           | 1         | 1           |
 | Do new candidates write code during their interview? |        |                   |             |           |            |
 | Do you do hallway usability testing?               | 1      | 1                 | 1           | 1         | 1           |
-| Total score                                        | 10     | 8                 | 9           | 10        | 6           |
+| Total score                                        | 10     | 8                 | 9           | 10        | 8           |
 
 <!-- markdownlint-enable MD013 -->
 
