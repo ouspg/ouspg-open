@@ -36,6 +36,34 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
+### Tue 2016-08-24 @ All Over Oulu
+
+It has been a busy summer. Time to catch a breath of fresh
+air and visit some local (but also global) companies.
+
+*Introductions* mentioned later below are:
+
+* Host company intro (15min)
+* TryTLS intro (15min)
+* Libfuzzerfication Intro (15min)
+
+**Tentative** schedule:
+
+* 12:00 - 13:15 Synopsys (75min)
+  * Introductions
+  * kandi special 25 minutes  + 5 minutes for QA
+* 13:15 - 13:30 Walkabout (15min)
+* 13:30 - 13:45 Checking out the Kielo & Radai
+  [new premises](https://youtu.be/r-e25qPsojc) (15min)
+  * Introductions
+* 13:45 - 14:00 Walkabout II (15min)
+* 14:00 - 14:45 F-Secure (45min)
+  * Introductions
+* 14:45 - 15:45 To the city center (60 minutes)
+* 15:45 - 16:30 Prove
+  * Introductions
+* 16:30 - Hanging out in the city
+
 ### Tue 2016-08-16 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
 * It was a busy day. We had two tracks.
@@ -47,8 +75,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 * 10:30 Review and head off to shootout-0.3beta
 * 12:00 Aapo Audit Round II [(etherpad)](http://muistio.tieke.fi/p/aapo-audit),
   and shootout continues
-  * Aapo Audit is the first totally transparent audit
-  * We had special guest star Juhani Eronen from NCSC-FI participating
+    * We had special guest star Juhani Eronen from NCSC-FI participating
 * 14:30 shootout II Review and head off to shootout-0.3
 * 15:00 Reviewing potential vulnerability coordination cases.
 * 18:30 sauna @ [Boogie Software](http://www.boogiesoftware.com/) ([map](https://www.google.fi/maps/place/Boogie+Software+Oy/@65.0217951,25.4841214,15z/data=!4m5!3m4!1s0x0:0xf0129e507f614000!8m2!3d65.0215051!4d25.4978972))
