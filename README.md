@@ -46,13 +46,14 @@ air and visit some local (but also global) companies.
 * Host company intro (15min)
 * TryTLS intro (15min)
 * Libfuzzerfication Intro (15min)
+* Check TryTLS & Libfuzzerfication [teaser video](https://youtu.be/YYGVykWtk2s)
 
 **Tentative** schedule:
 
 * 12:00 - 13:15 Synopsys (75min)
   * Introductions
   * kandi special 25 minutes  + 5 minutes for QA
-* 13:15 - 13:30 Walkabout (15min)
+* 13:15 - 13:30 Walkabout I (15min)
 * 13:30 - 13:45 Checking out the Kielo & Radai
   [new premises](https://youtu.be/r-e25qPsojc) (15min)
   * Introductions
