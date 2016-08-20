@@ -39,20 +39,23 @@ If still lost but curious, join #ouspg @ IRCnet.
 ### Tue 2016-08-24 @ All Over Oulu
 
 It has been a busy summer. Time to catch a breath of fresh
-air and visit some local (but also global) companies.
+air and visit some local (but also global) companies. 
 
-*Introductions* mentioned later below are:
+
+*Introductions* mentioned later below include:
 
 * Host company intro (15min)
-* TryTLS intro (15min)
-* Libfuzzerfication Intro (15min)
+* TryTLS intro (10min)
+* Libfuzzerfication Intro (10min)
+* Free discussion during and after the intros.
 * Check TryTLS & Libfuzzerfication [teaser video](https://youtu.be/YYGVykWtk2s)
 
 **Tentative** schedule:
 
-* 12:00 - 13:15 Synopsys (75min)
+* 12:00 - 13:15 Synopsys, Tutkijantie 4E (75min)
+  * We will meet at the entrance of Synopsys a bit before 12:00. 
   * Introductions
-  * kandi special 25 minutes  + 5 minutes for QA
+  * Bachelor special 25 minutes  + 5 minutes for QA
 * 13:15 - 13:30 Walkabout I (15min)
 * 13:30 - 13:45 Checking out the Kielo & Radai
   [new premises](https://youtu.be/r-e25qPsojc) (15min)
