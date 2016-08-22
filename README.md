@@ -61,10 +61,10 @@ air and visit some local (but also global) companies.
   [new premises](https://youtu.be/r-e25qPsojc) (15min)
   * Introductions
 * 13:45 - 14:00 Walkabout II (15min)
-* 14:00 - 14:45 F-Secure (45min)
+* 14:30 - 15:15 F-Secure, Elektroniikkatie 3 (45min)
   * Introductions
-* 14:45 - 15:45 To the city center (60 minutes)
-* 15:45 - 16:30 Prove
+* 15:15 - 15:45 To the city center (30 minutes)
+* 15:45 - 16:30 Prove, Kirkkokatu 3
   * Introductions
 * 16:30 - Hanging out in the city
 
