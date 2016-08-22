@@ -64,7 +64,7 @@ air and visit some local (but also global) companies.
 * 14:30 - 15:15 F-Secure, Elektroniikkatie 3 (45min)
   * Introductions
 * 15:15 - 15:45 To the city center (30 minutes)
-* 15:45 - 16:30 Prove, Kirkkokatu 3
+* 15:45 - 16:30 Prove, Kirkkokatu 8
   * Introductions
 * 16:30 - Hanging out in the city
 
