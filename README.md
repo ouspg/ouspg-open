@@ -36,7 +36,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
-### Tue 2016-08-24 @ All Over Oulu
+### Tue 2016-08-23 @ All Over Oulu
 
 It has been a busy summer. Time to catch a breath of fresh
 air and visit some local (but also global) companies. 
