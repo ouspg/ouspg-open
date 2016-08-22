@@ -52,15 +52,15 @@ air and visit some local (but also global) companies.
 
 **Tentative** schedule:
 
-* 12:00 - 13:15 Synopsys, Tutkijantie 4E (75min)
+* 12:00 - 13:30 Synopsys, Tutkijantie 4E (90min)
   * We will meet at the entrance of Synopsys a bit before 12:00. 
   * Introductions
   * Bachelor special 25 minutes  + 5 minutes for QA
-* 13:15 - 13:30 Walkabout I (15min)
-* 13:30 - 13:45 Checking out the Kielo & Radai
-  [new premises](https://youtu.be/r-e25qPsojc) (15min)
+* 13:30 - 13:45 Walkabout I (15min)
+* 13:45 - 14:15 Checking out the Kielo & Radai (30min)
+  [new premises](https://youtu.be/r-e25qPsojc) 
   * Introductions
-* 13:45 - 14:00 Walkabout II (15min)
+* ~14:15 - 14:30 Walkabout II (15min)
 * 14:30 - 15:15 F-Secure, Elektroniikkatie 3 (45min)
   * Introductions
 * 15:15 - 15:45 To the city center (30 minutes)
