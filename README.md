@@ -48,11 +48,15 @@ air and visit some local (but also global) companies.
 * Libfuzzerfication Intro (15min)
 * Check TryTLS & Libfuzzerfication [teaser video](https://youtu.be/YYGVykWtk2s)
 
-**Tentative** schedule:
+Schedule:
 
 * 12:00 - 13:15 Synopsys (75min)
   * Introductions
+    * Antti Kiiveri introduced Synopsys in general
+    * Teemu Vaskivuo presented AbuseSA
+    * Matti Kamunen talked about Defensics
   * kandi special 25 minutes  + 5 minutes for QA
+    * Sampo Niittyviita presented his bachelor thesis about ISTQB
 * 13:15 - 13:30 Walkabout I (15min)
 * 13:30 - 13:45 Checking out the Kielo & Radai
   [new premises](https://youtu.be/r-e25qPsojc) (15min)
