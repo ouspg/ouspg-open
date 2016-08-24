@@ -36,38 +36,55 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
-### Tue 2016-08-24 @ All Over Oulu
+### Tue 2016-08-30 - Grand Finale - details coming up
 
-It has been a busy summer. Time to catch a breath of fresh
-air and visit some local (but also global) companies.
+In this session, we will reflect what was done. What worked? What didn't?
 
-*Introductions* mentioned later below are:
+It has been a busy summer. It has been almost 3 months since we
+[started](https://youtu.be/YYGVykWtk2s). Since that a lot has happened.
+[honeypots](http://github.com/ouspg/honeypots) project was completed,
+with smaller image size than the closest alternative,
+[urlhandlers](https://github.com/ouspg/urlhandlers) took a leap in research
+and [awareness](https://github.com/ouspg/urlhandlers/blob/master/doc/tracking.md).
+[libfuzzerfication](https://github.com/ouspg/libfuzzerfication) simplified
+fuzzing, and [TryTLS](https://github.com/ouspg/trytls) already has already
+started making impact to the security of programming languages.
 
-* Host company intro (15min)
-* TryTLS intro (15min)
-* Libfuzzerfication Intro (15min)
-* Check TryTLS & Libfuzzerfication [teaser video](https://youtu.be/YYGVykWtk2s)
+### Tue 2016-08-23 @ All Over Oulu
 
-Schedule:
+This Tuesday, we enjoyed the company of five different companies in
+Oulu. As we went on, we tried to hijack people from previous
+company to the next with some success.
 
-* 12:00 - 13:15 Synopsys (75min)
-  * Introductions
-    * Antti Kiiveri introduced Synopsys in general
-    * Teemu Vaskivuo presented AbuseSA
-    * Matti Kamunen talked about Defensics
-  * kandi special 25 minutes  + 5 minutes for QA
-    * Sampo Niittyviita presented his bachelor thesis about ISTQB
-* 13:15 - 13:30 Walkabout I (15min)
-* 13:30 - 13:45 Checking out the Kielo & Radai
-  [new premises](https://youtu.be/r-e25qPsojc) (15min)
-  * Introductions
-* 13:45 - 14:00 Walkabout II (15min)
-* 14:00 - 14:45 F-Secure (45min)
-  * Introductions
-* 14:45 - 15:45 To the city center (60 minutes)
-* 15:45 - 16:30 Prove
-  * Introductions
-* 16:30 - Hanging out in the city
+* Synopsys
+  * Antti Kiiveri introduced Synopsys in general and Teemu Vaskivuo
+   (@tevas) presented AbuseSA. We learned that Synopsys has a number
+   of openings today, and more are coming up for different topics.
+  * Matti Kamunen talked about Defensics, and finally
+  * Sampo Niittyviita entertained us with his bachelor thesis
+    presentation dealing with [ISTQB](http://www.istqb.org/) testing.
+   We found familiar ground reflecting Sampo's work trough
+    security audits
+* Checked out the new [Kielo](http://kielo.com/) premises and met
+  with one of their residents, [Radai](http://radai.fi/)
+  * Jarkko Ruottinen explained the idea of Kielo, Christian Wieser from Radai
+    showecased fancy drones, used for everything else except fotography.
+* F-Secure, Elektroniikkatie 3 (45min)
+  * Sami Hyvönen presented F-Secure in general and Samu Sarivaara
+  presented Rapid Detection service. We were glad to see F-Secure
+  has grown in Oulu, and is eager to grow some more. They are also hiring!
+  * We also met Atte Kettunen (@attekett) first time with a new hat on (OUSPG->F-Secure)
+* Last visit was at [Prove](https://prove.fi/). We started to
+  relax from a tight 5-companies-in-one-afternoon run schedule.
+  Relaxation turned into inspiration when CEO, Antti Niittyviita,
+  welcomed us and created very inspiring atmosphere.
+  * Antti recommended Simon Senek's TEDx-presentation
+    [How great leaders inspire actio](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+  * He shared with us Prove's ups and downs. It Proved to be very
+    good session, as we discovered the global and immutable [truth](thetruth.png)
+  * (If all this seems philosophical, we should remind, that
+    Prove indeed is a very successful company, probably due to all
+    the hard work with the feet on the ground)
 
 ### Tue 2016-08-16 @ Tellus Innovation Arena, Linnanmaa Campus (12:00-17:00)
 
