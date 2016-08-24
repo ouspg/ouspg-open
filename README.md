@@ -38,8 +38,6 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-08-30 - Grand Finale - details coming up
 
-In this session, we will reflect what was done. What worked? What didn't?
-
 It has been almost 3 months since we
 [started](https://youtu.be/YYGVykWtk2s). Since that a lot has happened.
 [honeypots](http://github.com/ouspg/honeypots) project was completed,
@@ -49,6 +47,8 @@ and [awareness](https://github.com/ouspg/urlhandlers/blob/master/doc/tracking.md
 [libfuzzerfication](https://github.com/ouspg/libfuzzerfication) simplified
 fuzzing, and [TryTLS](https://github.com/ouspg/trytls) has already
 started making impact to the security of programming languages.
+
+In this session, we will reflect what was done. What worked? What didn't?
 
 ### Tue 2016-08-23 @ All Over Oulu
 
