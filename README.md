@@ -40,7 +40,7 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 In this session, we will reflect what was done. What worked? What didn't?
 
-It has been a busy summer. It has been almost 3 months since we
+It has been almost 3 months since we
 [started](https://youtu.be/YYGVykWtk2s). Since that a lot has happened.
 [honeypots](http://github.com/ouspg/honeypots) project was completed,
 with smaller image size than the closest alternative,
