@@ -47,7 +47,7 @@ with smaller image size than the closest alternative,
 [urlhandlers](https://github.com/ouspg/urlhandlers) took a leap in research
 and [awareness](https://github.com/ouspg/urlhandlers/blob/master/doc/tracking.md).
 [libfuzzerfication](https://github.com/ouspg/libfuzzerfication) simplified
-fuzzing, and [TryTLS](https://github.com/ouspg/trytls) already has already
+fuzzing, and [TryTLS](https://github.com/ouspg/trytls) has already
 started making impact to the security of programming languages.
 
 ### Tue 2016-08-23 @ All Over Oulu
@@ -56,7 +56,7 @@ This Tuesday, we enjoyed the company of five different companies in
 Oulu. As we went on, we tried to hijack people from previous
 company to the next with some success.
 
-* Synopsys
+* [Synopsys](http://www.synopsys.com/software/Pages/default.aspx)
   * Antti Kiiveri introduced Synopsys in general and Teemu Vaskivuo
    (@tevas) presented AbuseSA. We learned that Synopsys has a number
    of openings today, and more are coming up for different topics.
@@ -69,12 +69,12 @@ company to the next with some success.
   with one of their residents, [Radai](http://radai.fi/)
   * Jarkko Ruottinen explained the idea of Kielo, Christian Wieser from Radai
     showecased fancy drones, used for everything else except fotography.
-* F-Secure, Elektroniikkatie 3 (45min)
+* [F-Secure](https://www.f-secure.com)
   * Sami Hyvönen presented F-Secure in general and Samu Sarivaara
   presented Rapid Detection service. We were glad to see F-Secure
   has grown in Oulu, and is eager to grow some more. They are also hiring!
   * We also met Atte Kettunen (@attekett) first time with a new hat on (OUSPG->F-Secure)
-* Last visit was at [Prove](https://prove.fi/). We started to
+* [Prove](https://prove.fi/) - last but not least! We started to
   relax from a tight 5-companies-in-one-afternoon run schedule.
   Relaxation turned into inspiration when CEO, Antti Niittyviita,
   welcomed us and created very inspiring atmosphere.
