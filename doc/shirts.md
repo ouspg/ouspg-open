@@ -4,12 +4,12 @@
 
 kpl / koko
 
-7  M
-10 L
-15 XL
-10 XXL
-4  XXXL
-46 Yhteensä
+* 7  M
+* 10 L
+* 15 XL
+* 10 XXL
+* 4  XXXL
+* 46 Yhteensä
 
 Painatus: max A6: 3€
 
