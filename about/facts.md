@@ -22,7 +22,7 @@ depending on the country.
 
 ----
 
-### 5.1.2
+## 5.1.2
 
 Our security research is very well known in the national ecosystem, both
 by the security companies, as well as governmental organizations. Latest
@@ -30,3 +30,10 @@ example is from this summer. OUSPG Open summer workshops pulled security
 professionals, and software developers from over 20 organizations -
 National Cyber Security Centre of Finland, Finnish Defense Forces, F-Secure,
 and Ericsson to name a few.
+
+## 5.1.4
+
+On security research, we proactively collaborate with other national research
+groups from academia, as well as from the industry. One example of this kind
+of activity is the bi-annual Finnish Vulnerability Researcher Meeting workshop,
+where over 250 security researchers from 84 organisations share information.
