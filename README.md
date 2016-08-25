@@ -63,23 +63,23 @@ company to the next with some success.
   * Matti Kamunen talked about Defensics, and finally
   * Sampo Niittyviita entertained us with his bachelor thesis
     presentation dealing with [ISTQB](http://www.istqb.org/) testing.
-   We found familiar ground reflecting Sampo's work trough
+    We found familiar ground reflecting Sampo's work trough
     security audits
 * Checked out the new [Kielo](http://kielo.com/) premises and met
   with one of their residents, [Radai](http://radai.fi/)
   * Jarkko Ruottinen explained the idea of Kielo, Christian Wieser from Radai
-    showecased fancy drones, used for everything else except fotography.
+    showecased fancy drones, used for everything else except photography.
 * [F-Secure](https://www.f-secure.com)
   * Sami Hyvönen presented F-Secure in general and Samu Sarivaara
-  presented Rapid Detection service. We were glad to see F-Secure
-  has grown in Oulu, and is eager to grow some more. They are also hiring!
+    presented Rapid Detection service. We were glad to see F-Secure
+    has grown in Oulu, and is eager to grow some more. They are also hiring!
   * We also met Atte Kettunen (@attekett) first time with a new hat on (OUSPG->F-Secure)
 * [Prove](https://prove.fi/) - last but not least! We started to
   relax from a tight 5-companies-in-one-afternoon run schedule.
   Relaxation turned into inspiration when CEO, Antti Niittyviita,
   welcomed us and created very inspiring atmosphere.
   * Antti recommended Simon Senek's TEDx-presentation
-    [How great leaders inspire actio](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+    [How great leaders inspire action](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
   * He shared with us Prove's ups and downs. It Proved to be very
     good session, as we discovered the global and immutable [truth](thetruth.png)
   * (If all this seems philosophical, we should remind, that
