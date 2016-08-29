@@ -38,8 +38,11 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ### Tue 2016-08-30 Minimum Viable Award Gala @ Tellus Stage, Linnanmaa Campus (12:00-17:00)
 
-![Gala](img/open-close.jpg )
+![Gala](img/open-close.jpg)
+
+<!-- markdownlint-disable MD036 -->
 *OUSPG Open Minimum Viable Gala will close our summer.*
+<!-- markdownlint-enable MD036 -->
 
 * In this session, we will celebrate and reflect what was done
   * What worked? What didn't? What was fun? What was not?
