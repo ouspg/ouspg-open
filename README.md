@@ -36,12 +36,15 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
-### Tue 2016-08-30 @ Tellus Stage, Linnanmaa Campus (12:00-17:00)
+### Tue 2016-08-30 Minimum Viable Award Gala @ Tellus Stage, Linnanmaa Campus (12:00-17:00)
+
+![Gala](img/open-close.jpg )
+*OUSPG Open Minimum Viable Gala will close our summer.*
 
 * In this session, we will celebrate and reflect what was done
   * What worked? What didn't? What was fun? What was not?
   * Do you see the dent in the universe?
-* Minimum Viable Award Gala
+* Minimum Viable Awards
   * Team members will be awarded in different categories
 * Feedback from participants
 * Food & Sauna @ CWi home in the evening
