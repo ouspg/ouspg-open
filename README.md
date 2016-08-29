@@ -36,7 +36,15 @@ If still lost but curious, join #ouspg @ IRCnet.
 
 ## June - August 2016: Beware, weekly phun & terror will fill this space
 
-### Tue 2016-08-30 - Grand Finale - details coming up
+### Tue 2016-08-30 @ Tellus Stage, Linnanmaa Campus (12:00-17:00)
+
+* In this session, we will celebrate and reflect what was done
+  * What worked? What didn't? What was fun? What was not?
+  * Do you see the dent in the universe?
+* Minimum Viable Award Gala
+  * Team members will be awarded in different categories
+* Feedback from participants
+* Food & Sauna @ CWi home in the evening
 
 It has been almost 3 months since we
 [started](https://youtu.be/YYGVykWtk2s). Since that a lot has happened.
@@ -47,8 +55,6 @@ and [awareness](https://github.com/ouspg/urlhandlers/blob/master/doc/tracking.md
 [libfuzzerfication](https://github.com/ouspg/libfuzzerfication) simplified
 fuzzing, and [TryTLS](https://github.com/ouspg/trytls) has already
 started making impact to the security of programming languages.
-
-In this session, we will reflect what was done. What worked? What didn't?
 
 ### Tue 2016-08-23 @ All Over Oulu
 
