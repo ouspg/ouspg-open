@@ -37,7 +37,8 @@ If still lost but curious, join #ouspg @ IRCnet.
 ## June - August 2016: Weekly phun & terror filled this space
 
 OUSPG Open 2016 is now closed. We would like to thank contributors,
-participants, and anyone who was mentioned in this journal. Encounters and
+participants, and anyone who was mentioned in this journal. (We hope we
+didn't forget anyone!) Encounters and
 interactions were one of the best things for us this summer!
 
 As of 2016-08-3, it has been almost 3 months since we
@@ -57,17 +58,18 @@ started making impact to the security of programming languages.
 *OUSPG Open Minimum Viable Gala will closed our summer.
 Click the image to watch the slides, summarizing the results.*
 
-* In this session, we celebrated and reflected what was done, and gave awards
-  in different categories, we came up with categories after the judge's decision.
+* In this session, we celebrated and reflected what got done. We gave awards
+  in different categories.
   We would like to thank the external our judges:
-  * Tomi Tuominen (T2 & F-Secure) - we named your award as *scene impact award*,
-  * David Chartier (Synopsys)- we named your award as *marketing award*
+  * Tomi Tuominen ([T2](http://www.t2.fi/) & F-Secure) - we named your award as
+    *scene impact award*,
+  * David Chartier (Synopsys)- we named your award as *marketing award*,
   * Kostya Serebryany & Abhishek Arya (Google ) - we named your
-    award as *Google award*, as
-    * OUSPG Open was funded with Google Grant
+    award as *Google award* (OUSPG Open was funded with Google Grant)
 * Food & Sauna @ CWi home in the evening
 * Jani Tuovila (@replicant2020) from Bittium
-* Anna-Maija Juuso from Oulu University visited to hear how the summer went.
+* Anna-Maija Juuso from Oulu University visited us afterwards to hear how the
+  summer went.
 
 ### Tue 2016-08-23 @ All Over Oulu
 
