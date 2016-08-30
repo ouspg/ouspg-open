@@ -30,29 +30,17 @@ against this file to this repo and reserve your slot. :)
 
 If still lost but curious, join #ouspg @ IRCnet.
 
-## Coming up topics (no date assigned yet)
+## Something for the future
 
 * What we learned from (insanely) repo-centric workflow
 
-## June - August 2016: Beware, weekly phun & terror will fill this space
+## June - August 2016: Weekly phun & terror filled this space
 
-### Tue 2016-08-30 Minimum Viable Award Gala @ Tellus Stage, Linnanmaa Campus (12:00-17:00)
+OUSPG Open 2016 is now closed. We would like to thank contributors,
+participants, and anyone who was mentioned in this journal. Encounters and
+interactions were one of the best things for us this summer!
 
-![Gala](img/open-close.jpg)
-
-<!-- markdownlint-disable MD036 -->
-*OUSPG Open Minimum Viable Gala will close our summer.*
-<!-- markdownlint-enable MD036 -->
-
-* In this session, we will celebrate and reflect what was done
-  * What worked? What didn't? What was fun? What was not?
-  * Do you see the dent in the universe?
-* Minimum Viable Awards
-  * Team members will be awarded in different categories
-* Feedback from participants
-* Food & Sauna @ CWi home in the evening
-
-It has been almost 3 months since we
+As of 2016-08-3, it has been almost 3 months since we
 [started](https://youtu.be/YYGVykWtk2s). Since that a lot has happened.
 [honeypots](http://github.com/ouspg/honeypots) project was completed,
 with smaller image size than the closest alternative,
@@ -61,6 +49,25 @@ and [awareness](https://github.com/ouspg/urlhandlers/blob/master/doc/tracking.md
 [libfuzzerfication](https://github.com/ouspg/libfuzzerfication) simplified
 fuzzing, and [TryTLS](https://github.com/ouspg/trytls) has already
 started making impact to the security of programming languages.
+
+### Tue 2016-08-30 Minimum Viable Award Gala @ Tellus Stage, Linnanmaa Campus (12:00-17:00)
+
+[![Gala](img/open-close.jpg)](http://slides.com/evilon/ouspg-open-2016#/)
+
+*OUSPG Open Minimum Viable Gala will closed our summer.
+Click the image to watch the slides, summarizing the results.*
+
+* In this session, we celebrated and reflected what was done, and gave awards
+  in different categories, we came up with categories after the judge's decision.
+  We would like to thank the external our judges:
+  * Tomi Tuominen (T2 & F-Secure) - we named your award as *scene impact award*,
+  * David Chartier (Synopsys)- we named your award as *marketing award*
+  * Kostya Serebryany & Abhishek Arya (Google ) - we named your
+    award as *Google award*, as
+    * OUSPG Open was funded with Google Grant
+* Food & Sauna @ CWi home in the evening
+* Jani Tuovila (@replicant2020) from Bittium
+* Anna-Maija Juuso from Oulu University visited to hear how the summer went.
 
 ### Tue 2016-08-23 @ All Over Oulu
 
