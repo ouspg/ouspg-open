@@ -55,7 +55,7 @@ started making impact to the security of programming languages.
 
 [![Gala](img/open-close.jpg)](http://slides.com/evilon/ouspg-open-2016#/)
 
-*OUSPG Open Minimum Viable Gala will closed our summer.
+*OUSPG Open Minimum Viable Gala closed our summer.
 Click the image to watch the slides, summarizing the results.*
 
 * In this session, we celebrated and reflected what got done. We gave awards
@@ -63,8 +63,8 @@ Click the image to watch the slides, summarizing the results.*
   We would like to thank the external our judges:
   * Tomi Tuominen ([T2](http://www.t2.fi/) & F-Secure) - we named your award as
     *scene impact award*,
-  * David Chartier (Synopsys)- we named your award as *marketing award*,
-  * Kostya Serebryany & Abhishek Arya (Google ) - we named your
+  * David Chartier (Synopsys) - we named your award as *marketing award*,
+  * Kostya Serebryany & Abhishek Arya (Google) - we named your
     award as *Google award* (OUSPG Open was funded with Google Grant)
 * Food & Sauna @ CWi home in the evening
 * Jani Tuovila (@replicant2020) from Bittium
