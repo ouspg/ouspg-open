@@ -63,9 +63,13 @@ Click the image to watch the slides, summarizing the results.*
   We would like to thank the external our judges:
   * Tomi Tuominen ([T2](http://www.t2.fi/) & F-Secure) - we named your award as
     *scene impact award*,
+    * Winner: [TryTLS](https://github.com/ouspg/trytls)
   * David Chartier (Synopsys) - we named your award as *marketing award*,
+    * Winner: [URL Handlers](https://github.com/ouspg/urlhandlers)
   * Kostya Serebryany & Abhishek Arya (Google) - we named your
     award as *Google award* (OUSPG Open was funded with Google Grant)
+    * Winner: [LibFuzzerfication](https://github.com/ouspg/libfuzzerfication)
+  * Also, [@nakpu](https://github.com/nkapu) and [@mikessu](https://github.com/mikessu) received individual awards.
 * Food & Sauna @ CWi home in the evening
 * Jani Tuovila (@replicant2020) from Bittium
 * Anna-Maija Juuso from Oulu University visited us afterwards to hear how the
