@@ -63,9 +63,13 @@ Click the image to watch the slides, summarizing the results.*
   We would like to thank the external our judges:
   * Tomi Tuominen ([T2](http://www.t2.fi/) & F-Secure) - we named your award as
     *scene impact award*,
+    * Winner: [TryTLS](https://github.com/ouspg/trytls)
   * David Chartier (Synopsys) - we named your award as *marketing award*,
+    * Winner: [URL Handlers](https://github.com/ouspg/urlhandlers)
   * Kostya Serebryany & Abhishek Arya (Google) - we named your
     award as *Google award* (OUSPG Open was funded with Google Grant)
+    * Winner: [LibFuzzerfication](https://github.com/ouspg/libfuzzerfication)
+  * Also, [@nakpu](https://github.com/nkapu) and [@mikessu](https://github.com/mikessu) received individual awards.
 * Food & Sauna @ CWi home in the evening
 * Jani Tuovila (@replicant2020) from Bittium
 * Anna-Maija Juuso from Oulu University visited us afterwards to hear how the
@@ -116,7 +120,8 @@ company to the next with some success.
 * 10:30 Review and head off to shootout-0.3beta
 * 12:00 Aapo Audit Round II [(etherpad)](http://muistio.tieke.fi/p/aapo-audit),
   and shootout continues
-    * We had special guest star Juhani Eronen from NCSC-FI participating
+    * We had special guest stars Juhani Eronen from NCSC-FI and Mika Seppänen from Synopsys participating
+    * Ari Vaulo, Matti Suuronen and Laura Saukko represented Oulu University.
 * 14:30 shootout II Review and head off to shootout-0.3
 * 15:00 Reviewing potential vulnerability coordination cases.
 * 18:30 sauna @ [Boogie Software](http://www.boogiesoftware.com/) ([map](https://www.google.fi/maps/place/Boogie+Software+Oy/@65.0217951,25.4841214,15z/data=!4m5!3m4!1s0x0:0xf0129e507f614000!8m2!3d65.0215051!4d25.4978972))
