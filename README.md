@@ -69,7 +69,7 @@ Click the image to watch the slides, summarizing the results.*
   * Kostya Serebryany & Abhishek Arya (Google) - we named your
     award as *Google award* (OUSPG Open was funded with Google Grant)
     * Winner: [LibFuzzerfication](https://github.com/ouspg/libfuzzerfication)
-  * Also, [@nakpu](https://github.com/nkapu) and [@mikessu](https://github.com/mikessu) received individual awards.
+  * Also, [@nkapu](https://github.com/nkapu) and [@mikessu](https://github.com/mikessu) received individual awards.
 * Food & Sauna @ CWi home in the evening
 * Jani Tuovila (@replicant2020) from Bittium
 * Anna-Maija Juuso from Oulu University visited us afterwards to hear how the
